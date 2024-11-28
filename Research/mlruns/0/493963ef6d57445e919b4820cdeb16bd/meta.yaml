@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/493963ef6d57445e919b4820cdeb16bd/artifacts
+end_time: 1732828864363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 493963ef6d57445e919b4820cdeb16bd
+run_name: honorable-gnat-50
+run_uuid: 493963ef6d57445e919b4820cdeb16bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828861509
+status: 3
+tags: []
+user_id: crisu

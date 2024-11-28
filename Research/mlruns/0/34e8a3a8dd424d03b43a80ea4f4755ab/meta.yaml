@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/34e8a3a8dd424d03b43a80ea4f4755ab/artifacts
+end_time: 1732828759577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34e8a3a8dd424d03b43a80ea4f4755ab
+run_name: beautiful-ray-603
+run_uuid: 34e8a3a8dd424d03b43a80ea4f4755ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828757524
+status: 3
+tags: []
+user_id: crisu

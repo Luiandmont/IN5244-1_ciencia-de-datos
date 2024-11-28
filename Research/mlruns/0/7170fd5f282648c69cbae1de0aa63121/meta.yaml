@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/7170fd5f282648c69cbae1de0aa63121/artifacts
+end_time: 1732828772111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7170fd5f282648c69cbae1de0aa63121
+run_name: agreeable-turtle-669
+run_uuid: 7170fd5f282648c69cbae1de0aa63121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828766107
+status: 3
+tags: []
+user_id: crisu

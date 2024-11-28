@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/141287b97ca4410dbf3d52b0714e2e2f/artifacts
+end_time: 1732828683171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 141287b97ca4410dbf3d52b0714e2e2f
+run_name: adaptable-fly-718
+run_uuid: 141287b97ca4410dbf3d52b0714e2e2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828681403
+status: 3
+tags: []
+user_id: crisu

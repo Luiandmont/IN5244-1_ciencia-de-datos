@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/268bca692b33467f8f05c2c2bcf4ad07/artifacts
+end_time: 1732828750946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 268bca692b33467f8f05c2c2bcf4ad07
+run_name: skittish-shoat-698
+run_uuid: 268bca692b33467f8f05c2c2bcf4ad07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828746723
+status: 3
+tags: []
+user_id: crisu

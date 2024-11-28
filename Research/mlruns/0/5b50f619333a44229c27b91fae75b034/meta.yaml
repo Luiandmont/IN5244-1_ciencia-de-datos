@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/5b50f619333a44229c27b91fae75b034/artifacts
+end_time: 1732828469933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b50f619333a44229c27b91fae75b034
+run_name: skittish-toad-905
+run_uuid: 5b50f619333a44229c27b91fae75b034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828459476
+status: 3
+tags: []
+user_id: crisu

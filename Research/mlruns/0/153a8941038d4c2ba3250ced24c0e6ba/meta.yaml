@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/153a8941038d4c2ba3250ced24c0e6ba/artifacts
+end_time: 1732828787858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 153a8941038d4c2ba3250ced24c0e6ba
+run_name: tasteful-bat-213
+run_uuid: 153a8941038d4c2ba3250ced24c0e6ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828779574
+status: 3
+tags: []
+user_id: crisu

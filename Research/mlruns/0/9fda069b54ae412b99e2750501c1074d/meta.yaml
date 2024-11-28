@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/9fda069b54ae412b99e2750501c1074d/artifacts
+end_time: 1732828855881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fda069b54ae412b99e2750501c1074d
+run_name: mercurial-fish-970
+run_uuid: 9fda069b54ae412b99e2750501c1074d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828853582
+status: 3
+tags: []
+user_id: crisu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/669e226d581e48caa849c737c6abac54/artifacts
+end_time: 1732828882943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 669e226d581e48caa849c737c6abac54
+run_name: bemused-auk-11
+run_uuid: 669e226d581e48caa849c737c6abac54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828880156
+status: 3
+tags: []
+user_id: crisu

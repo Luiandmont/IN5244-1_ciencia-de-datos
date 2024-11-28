@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/7a0bd2a4f4dc4417b6aaaf73393d4f78/artifacts
+end_time: 1732828576274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a0bd2a4f4dc4417b6aaaf73393d4f78
+run_name: polite-boar-974
+run_uuid: 7a0bd2a4f4dc4417b6aaaf73393d4f78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828560600
+status: 3
+tags: []
+user_id: crisu

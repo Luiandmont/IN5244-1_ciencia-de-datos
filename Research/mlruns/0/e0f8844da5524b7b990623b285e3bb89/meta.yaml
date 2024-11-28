@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/e0f8844da5524b7b990623b285e3bb89/artifacts
+end_time: 1732828754607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0f8844da5524b7b990623b285e3bb89
+run_name: abundant-bird-157
+run_uuid: e0f8844da5524b7b990623b285e3bb89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828750979
+status: 3
+tags: []
+user_id: crisu

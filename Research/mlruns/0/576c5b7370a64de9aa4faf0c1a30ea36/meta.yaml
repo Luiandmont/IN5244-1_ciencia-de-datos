@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/576c5b7370a64de9aa4faf0c1a30ea36/artifacts
+end_time: 1732828819628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 576c5b7370a64de9aa4faf0c1a30ea36
+run_name: marvelous-shark-39
+run_uuid: 576c5b7370a64de9aa4faf0c1a30ea36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828816891
+status: 3
+tags: []
+user_id: crisu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/bf648e5c7427418b9f851d6731cd7faf/artifacts
+end_time: 1732828430406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf648e5c7427418b9f851d6731cd7faf
+run_name: overjoyed-perch-355
+run_uuid: bf648e5c7427418b9f851d6731cd7faf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828422145
+status: 3
+tags: []
+user_id: crisu

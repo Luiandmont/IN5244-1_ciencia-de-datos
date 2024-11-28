@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/f378f6e2c8104c2a9b5a6c786c4258d1/artifacts
+end_time: 1732828880113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f378f6e2c8104c2a9b5a6c786c4258d1
+run_name: casual-loon-40
+run_uuid: f378f6e2c8104c2a9b5a6c786c4258d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828878096
+status: 3
+tags: []
+user_id: crisu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/4c2f869ef82e49bf8d2c9b144298467c/artifacts
+end_time: 1732828869884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c2f869ef82e49bf8d2c9b144298467c
+run_name: ambitious-dove-666
+run_uuid: 4c2f869ef82e49bf8d2c9b144298467c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828867413
+status: 3
+tags: []
+user_id: crisu

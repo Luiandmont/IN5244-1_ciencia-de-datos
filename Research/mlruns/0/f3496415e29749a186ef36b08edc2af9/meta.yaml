@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/f3496415e29749a186ef36b08edc2af9/artifacts
+end_time: 1732828898292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3496415e29749a186ef36b08edc2af9
+run_name: luminous-wren-42
+run_uuid: f3496415e29749a186ef36b08edc2af9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828895405
+status: 3
+tags: []
+user_id: crisu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/9cb61fbf7a9d42feaf700da4e24e34fd/artifacts
+end_time: 1732828762870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cb61fbf7a9d42feaf700da4e24e34fd
+run_name: overjoyed-foal-954
+run_uuid: 9cb61fbf7a9d42feaf700da4e24e34fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828759649
+status: 3
+tags: []
+user_id: crisu

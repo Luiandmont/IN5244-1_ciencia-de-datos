@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/7ad83d21fda942558468ced704232496/artifacts
+end_time: 1732828681322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ad83d21fda942558468ced704232496
+run_name: debonair-shad-807
+run_uuid: 7ad83d21fda942558468ced704232496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828672831
+status: 3
+tags: []
+user_id: crisu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/34c86935bdc44a178519188e7865a883/artifacts
+end_time: 1732828878058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34c86935bdc44a178519188e7865a883
+run_name: gregarious-croc-894
+run_uuid: 34c86935bdc44a178519188e7865a883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828876071
+status: 3
+tags: []
+user_id: crisu

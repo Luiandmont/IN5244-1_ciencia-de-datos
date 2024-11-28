@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/d3383479e29d4916854a56710d2390ad/artifacts
+end_time: 1732828497445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3383479e29d4916854a56710d2390ad
+run_name: melodic-mule-378
+run_uuid: d3383479e29d4916854a56710d2390ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828492253
+status: 3
+tags: []
+user_id: crisu

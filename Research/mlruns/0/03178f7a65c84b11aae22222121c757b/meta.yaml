@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/03178f7a65c84b11aae22222121c757b/artifacts
+end_time: 1732828719114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03178f7a65c84b11aae22222121c757b
+run_name: upbeat-foal-824
+run_uuid: 03178f7a65c84b11aae22222121c757b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828716315
+status: 3
+tags: []
+user_id: crisu

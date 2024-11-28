@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/a65503e3b69945a29530162f9f2283ab/artifacts
+end_time: 1732828873841
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a65503e3b69945a29530162f9f2283ab
+run_name: silent-rat-900
+run_uuid: a65503e3b69945a29530162f9f2283ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828872043
+status: 3
+tags: []
+user_id: crisu

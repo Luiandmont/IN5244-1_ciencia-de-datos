@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/ff684568bbd941f197f49c0f2a1507ba/artifacts
+end_time: 1732828927897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff684568bbd941f197f49c0f2a1507ba
+run_name: placid-squid-26
+run_uuid: ff684568bbd941f197f49c0f2a1507ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828922542
+status: 3
+tags: []
+user_id: crisu

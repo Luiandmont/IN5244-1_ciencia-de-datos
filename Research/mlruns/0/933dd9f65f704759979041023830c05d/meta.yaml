@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/933dd9f65f704759979041023830c05d/artifacts
+end_time: 1732828537184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 933dd9f65f704759979041023830c05d
+run_name: luxuriant-stork-989
+run_uuid: 933dd9f65f704759979041023830c05d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828528784
+status: 3
+tags: []
+user_id: crisu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/d3af4afe25da465782e6958a73f04657/artifacts
+end_time: 1732828851310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3af4afe25da465782e6958a73f04657
+run_name: thundering-dove-566
+run_uuid: d3af4afe25da465782e6958a73f04657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828848931
+status: 3
+tags: []
+user_id: crisu

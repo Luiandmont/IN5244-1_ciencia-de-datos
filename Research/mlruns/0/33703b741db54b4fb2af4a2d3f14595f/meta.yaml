@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/33703b741db54b4fb2af4a2d3f14595f/artifacts
+end_time: 1732828664934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33703b741db54b4fb2af4a2d3f14595f
+run_name: melodic-lamb-885
+run_uuid: 33703b741db54b4fb2af4a2d3f14595f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828650418
+status: 3
+tags: []
+user_id: crisu

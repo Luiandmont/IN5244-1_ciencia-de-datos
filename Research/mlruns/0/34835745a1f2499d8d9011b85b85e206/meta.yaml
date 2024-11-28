@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/34835745a1f2499d8d9011b85b85e206/artifacts
+end_time: 1732828809152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34835745a1f2499d8d9011b85b85e206
+run_name: salty-newt-955
+run_uuid: 34835745a1f2499d8d9011b85b85e206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732828801359
+status: 3
+tags: []
+user_id: crisu
