@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/f8929fd29dc74e63923946a12192e612/artifacts
+end_time: 1732827273514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8929fd29dc74e63923946a12192e612
+run_name: bouncy-mink-72
+run_uuid: f8929fd29dc74e63923946a12192e612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827264360
+status: 3
+tags: []
+user_id: crisu

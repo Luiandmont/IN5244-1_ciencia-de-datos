@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/6be600a909a74c529bfe3b9552b31aa7/artifacts
+end_time: 1732825835590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6be600a909a74c529bfe3b9552b31aa7
+run_name: gifted-swan-815
+run_uuid: 6be600a909a74c529bfe3b9552b31aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732825835533
+status: 4
+tags: []
+user_id: crisu

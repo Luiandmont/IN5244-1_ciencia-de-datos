@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/70db1fac47454b09b6f07be02689acb4/artifacts
+end_time: 1732826768287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70db1fac47454b09b6f07be02689acb4
+run_name: upbeat-lark-251
+run_uuid: 70db1fac47454b09b6f07be02689acb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826760669
+status: 3
+tags: []
+user_id: crisu

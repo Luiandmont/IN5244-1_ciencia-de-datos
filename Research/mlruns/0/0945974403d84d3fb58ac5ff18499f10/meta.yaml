@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/0945974403d84d3fb58ac5ff18499f10/artifacts
+end_time: 1732826387496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0945974403d84d3fb58ac5ff18499f10
+run_name: bold-ant-70
+run_uuid: 0945974403d84d3fb58ac5ff18499f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826382697
+status: 4
+tags: []
+user_id: crisu

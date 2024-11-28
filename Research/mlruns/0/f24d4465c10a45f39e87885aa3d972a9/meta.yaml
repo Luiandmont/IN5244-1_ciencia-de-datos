@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/f24d4465c10a45f39e87885aa3d972a9/artifacts
+end_time: 1732826657636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f24d4465c10a45f39e87885aa3d972a9
+run_name: silent-goat-224
+run_uuid: f24d4465c10a45f39e87885aa3d972a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826652547
+status: 3
+tags: []
+user_id: crisu

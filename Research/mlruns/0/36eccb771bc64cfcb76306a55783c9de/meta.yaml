@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/36eccb771bc64cfcb76306a55783c9de/artifacts
+end_time: 1732827145455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36eccb771bc64cfcb76306a55783c9de
+run_name: delightful-kit-299
+run_uuid: 36eccb771bc64cfcb76306a55783c9de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827139275
+status: 3
+tags: []
+user_id: crisu

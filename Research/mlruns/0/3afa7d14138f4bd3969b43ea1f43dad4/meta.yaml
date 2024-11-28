@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/3afa7d14138f4bd3969b43ea1f43dad4/artifacts
+end_time: 1732826406518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3afa7d14138f4bd3969b43ea1f43dad4
+run_name: overjoyed-skink-466
+run_uuid: 3afa7d14138f4bd3969b43ea1f43dad4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826398672
+status: 4
+tags: []
+user_id: crisu

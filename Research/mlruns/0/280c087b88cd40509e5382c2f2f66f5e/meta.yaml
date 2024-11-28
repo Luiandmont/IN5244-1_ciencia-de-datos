@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/280c087b88cd40509e5382c2f2f66f5e/artifacts
+end_time: 1732827463919
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 280c087b88cd40509e5382c2f2f66f5e
+run_name: nosy-duck-58
+run_uuid: 280c087b88cd40509e5382c2f2f66f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827459480
+status: 3
+tags: []
+user_id: crisu

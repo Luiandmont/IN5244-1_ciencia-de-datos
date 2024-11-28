@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/0b6e69eb604945b69fabfc8791b74c42/artifacts
+end_time: 1732826690864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b6e69eb604945b69fabfc8791b74c42
+run_name: caring-cod-701
+run_uuid: 0b6e69eb604945b69fabfc8791b74c42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826687396
+status: 3
+tags: []
+user_id: crisu

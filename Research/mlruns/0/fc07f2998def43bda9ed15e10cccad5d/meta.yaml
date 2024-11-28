@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/fc07f2998def43bda9ed15e10cccad5d/artifacts
+end_time: 1732826462389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc07f2998def43bda9ed15e10cccad5d
+run_name: respected-vole-999
+run_uuid: fc07f2998def43bda9ed15e10cccad5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826456804
+status: 3
+tags: []
+user_id: crisu

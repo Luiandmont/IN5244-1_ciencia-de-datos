@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/84b6bb2283994d0d893a4a5f1df2afed/artifacts
+end_time: 1732826467314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84b6bb2283994d0d893a4a5f1df2afed
+run_name: monumental-kit-234
+run_uuid: 84b6bb2283994d0d893a4a5f1df2afed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826462396
+status: 3
+tags: []
+user_id: crisu

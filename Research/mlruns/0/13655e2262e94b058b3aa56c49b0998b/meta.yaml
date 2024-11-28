@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/13655e2262e94b058b3aa56c49b0998b/artifacts
+end_time: 1732826422077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13655e2262e94b058b3aa56c49b0998b
+run_name: amazing-turtle-476
+run_uuid: 13655e2262e94b058b3aa56c49b0998b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826419629
+status: 3
+tags: []
+user_id: crisu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/a3985042e99e487bb35565bdbf962804/artifacts
+end_time: 1732827459451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3985042e99e487bb35565bdbf962804
+run_name: defiant-quail-640
+run_uuid: a3985042e99e487bb35565bdbf962804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827450748
+status: 3
+tags: []
+user_id: crisu

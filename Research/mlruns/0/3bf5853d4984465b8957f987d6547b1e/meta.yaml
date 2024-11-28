@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/3bf5853d4984465b8957f987d6547b1e/artifacts
+end_time: 1732827139251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bf5853d4984465b8957f987d6547b1e
+run_name: skillful-worm-613
+run_uuid: 3bf5853d4984465b8957f987d6547b1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827137131
+status: 3
+tags: []
+user_id: crisu

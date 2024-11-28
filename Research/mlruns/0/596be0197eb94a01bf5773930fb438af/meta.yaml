@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/596be0197eb94a01bf5773930fb438af/artifacts
+end_time: 1732826809189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 596be0197eb94a01bf5773930fb438af
+run_name: bedecked-newt-808
+run_uuid: 596be0197eb94a01bf5773930fb438af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826798730
+status: 3
+tags: []
+user_id: crisu

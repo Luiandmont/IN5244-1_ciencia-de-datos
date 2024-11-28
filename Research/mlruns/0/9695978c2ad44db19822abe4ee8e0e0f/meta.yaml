@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/9695978c2ad44db19822abe4ee8e0e0f/artifacts
+end_time: 1732827371783
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9695978c2ad44db19822abe4ee8e0e0f
+run_name: whimsical-loon-572
+run_uuid: 9695978c2ad44db19822abe4ee8e0e0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827352836
+status: 3
+tags: []
+user_id: crisu

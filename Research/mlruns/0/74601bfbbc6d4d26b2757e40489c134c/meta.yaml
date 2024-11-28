@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/74601bfbbc6d4d26b2757e40489c134c/artifacts
+end_time: 1732827029560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74601bfbbc6d4d26b2757e40489c134c
+run_name: adorable-turtle-685
+run_uuid: 74601bfbbc6d4d26b2757e40489c134c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827025381
+status: 3
+tags: []
+user_id: crisu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/3bdc1a8583514980a5bb66151df35f0e/artifacts
+end_time: 1732827196174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bdc1a8583514980a5bb66151df35f0e
+run_name: enthused-asp-320
+run_uuid: 3bdc1a8583514980a5bb66151df35f0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827187838
+status: 3
+tags: []
+user_id: crisu

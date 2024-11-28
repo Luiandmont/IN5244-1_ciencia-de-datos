@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/851c7f08b8774e8390b31d36c5f202ea/artifacts
+end_time: 1732826533056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 851c7f08b8774e8390b31d36c5f202ea
+run_name: defiant-robin-15
+run_uuid: 851c7f08b8774e8390b31d36c5f202ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826524752
+status: 3
+tags: []
+user_id: crisu

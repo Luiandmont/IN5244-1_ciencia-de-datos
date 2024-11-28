@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/4ffc25efe1a04c31a931fe4121620230/artifacts
+end_time: 1732827391030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ffc25efe1a04c31a931fe4121620230
+run_name: sedate-dog-156
+run_uuid: 4ffc25efe1a04c31a931fe4121620230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827371845
+status: 3
+tags: []
+user_id: crisu

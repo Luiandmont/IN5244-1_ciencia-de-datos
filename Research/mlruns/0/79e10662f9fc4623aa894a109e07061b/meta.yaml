@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/79e10662f9fc4623aa894a109e07061b/artifacts
+end_time: 1732826798725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79e10662f9fc4623aa894a109e07061b
+run_name: ambitious-kit-660
+run_uuid: 79e10662f9fc4623aa894a109e07061b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826789263
+status: 3
+tags: []
+user_id: crisu

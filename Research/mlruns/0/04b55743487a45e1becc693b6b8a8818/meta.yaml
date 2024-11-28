@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/04b55743487a45e1becc693b6b8a8818/artifacts
+end_time: 1732826506467
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04b55743487a45e1becc693b6b8a8818
+run_name: mysterious-duck-612
+run_uuid: 04b55743487a45e1becc693b6b8a8818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826504183
+status: 3
+tags: []
+user_id: crisu

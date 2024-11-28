@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/d2191a400c94440e944849b3f68b0ebf/artifacts
+end_time: 1732826456780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2191a400c94440e944849b3f68b0ebf
+run_name: judicious-koi-795
+run_uuid: d2191a400c94440e944849b3f68b0ebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826440478
+status: 3
+tags: []
+user_id: crisu

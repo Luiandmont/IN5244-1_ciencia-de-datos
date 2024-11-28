@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/f8fa088c19e14741ba43bc16fac91c95/artifacts
+end_time: 1732826849596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8fa088c19e14741ba43bc16fac91c95
+run_name: zealous-cub-434
+run_uuid: f8fa088c19e14741ba43bc16fac91c95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826843173
+status: 3
+tags: []
+user_id: crisu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/719a0fd50076471c83c165b72823339f/artifacts
+end_time: 1732826433120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 719a0fd50076471c83c165b72823339f
+run_name: funny-moth-459
+run_uuid: 719a0fd50076471c83c165b72823339f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826429159
+status: 3
+tags: []
+user_id: crisu

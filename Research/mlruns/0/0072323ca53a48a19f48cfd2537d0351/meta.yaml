@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/0072323ca53a48a19f48cfd2537d0351/artifacts
+end_time: 1732827129724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0072323ca53a48a19f48cfd2537d0351
+run_name: mysterious-dog-288
+run_uuid: 0072323ca53a48a19f48cfd2537d0351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827127444
+status: 3
+tags: []
+user_id: crisu

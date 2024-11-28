@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/ca853a1409af41939f3a13c44f9ca990/artifacts
+end_time: 1732827257586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca853a1409af41939f3a13c44f9ca990
+run_name: capable-shrimp-894
+run_uuid: ca853a1409af41939f3a13c44f9ca990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827247042
+status: 3
+tags: []
+user_id: crisu

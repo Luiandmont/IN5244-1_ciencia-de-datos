@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/ba489e89e5334471af4b51832d5ceb3d/artifacts
+end_time: 1732826818081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba489e89e5334471af4b51832d5ceb3d
+run_name: bald-seal-180
+run_uuid: ba489e89e5334471af4b51832d5ceb3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826815164
+status: 3
+tags: []
+user_id: crisu

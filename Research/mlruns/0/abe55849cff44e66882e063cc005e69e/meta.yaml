@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/abe55849cff44e66882e063cc005e69e/artifacts
+end_time: 1732826519326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abe55849cff44e66882e063cc005e69e
+run_name: overjoyed-finch-671
+run_uuid: abe55849cff44e66882e063cc005e69e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826513657
+status: 3
+tags: []
+user_id: crisu

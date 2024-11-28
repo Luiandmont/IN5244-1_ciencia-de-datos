@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/e2c57835b8034f84ae7262e930780a5e/artifacts
+end_time: 1732826899575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2c57835b8034f84ae7262e930780a5e
+run_name: languid-midge-471
+run_uuid: e2c57835b8034f84ae7262e930780a5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826873897
+status: 3
+tags: []
+user_id: crisu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/7236070251c04783b21c8a8d0251ef61/artifacts
+end_time: 1732826904295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7236070251c04783b21c8a8d0251ef61
+run_name: classy-sloth-719
+run_uuid: 7236070251c04783b21c8a8d0251ef61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826901848
+status: 3
+tags: []
+user_id: crisu

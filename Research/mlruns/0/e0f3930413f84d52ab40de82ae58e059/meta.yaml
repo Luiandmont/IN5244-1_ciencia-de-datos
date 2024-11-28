@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/e0f3930413f84d52ab40de82ae58e059/artifacts
+end_time: 1732826789244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0f3930413f84d52ab40de82ae58e059
+run_name: smiling-donkey-141
+run_uuid: e0f3930413f84d52ab40de82ae58e059
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826783257
+status: 3
+tags: []
+user_id: crisu

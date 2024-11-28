@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/398703b81c1542de986d9a92adb73160/artifacts
+end_time: 1732826429152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 398703b81c1542de986d9a92adb73160
+run_name: popular-gull-631
+run_uuid: 398703b81c1542de986d9a92adb73160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826422084
+status: 3
+tags: []
+user_id: crisu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/fccad1908f084f83baeffc21a14f8c1a/artifacts
+end_time: 1732826674214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fccad1908f084f83baeffc21a14f8c1a
+run_name: useful-hawk-623
+run_uuid: fccad1908f084f83baeffc21a14f8c1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826672496
+status: 3
+tags: []
+user_id: crisu

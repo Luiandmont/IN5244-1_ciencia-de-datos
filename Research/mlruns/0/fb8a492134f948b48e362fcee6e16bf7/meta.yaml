@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/fb8a492134f948b48e362fcee6e16bf7/artifacts
+end_time: 1732827414172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb8a492134f948b48e362fcee6e16bf7
+run_name: sedate-cod-752
+run_uuid: fb8a492134f948b48e362fcee6e16bf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827398133
+status: 3
+tags: []
+user_id: crisu

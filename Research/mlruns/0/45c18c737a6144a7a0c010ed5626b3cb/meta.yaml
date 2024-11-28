@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/45c18c737a6144a7a0c010ed5626b3cb/artifacts
+end_time: 1732826491443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45c18c737a6144a7a0c010ed5626b3cb
+run_name: classy-crab-140
+run_uuid: 45c18c737a6144a7a0c010ed5626b3cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826480209
+status: 3
+tags: []
+user_id: crisu

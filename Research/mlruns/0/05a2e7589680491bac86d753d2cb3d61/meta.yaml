@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/05a2e7589680491bac86d753d2cb3d61/artifacts
+end_time: 1732827154533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05a2e7589680491bac86d753d2cb3d61
+run_name: overjoyed-snail-933
+run_uuid: 05a2e7589680491bac86d753d2cb3d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827152219
+status: 3
+tags: []
+user_id: crisu

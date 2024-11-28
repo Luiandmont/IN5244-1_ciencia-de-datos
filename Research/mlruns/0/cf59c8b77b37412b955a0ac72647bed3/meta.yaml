@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/cf59c8b77b37412b955a0ac72647bed3/artifacts
+end_time: 1732826862679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf59c8b77b37412b955a0ac72647bed3
+run_name: carefree-asp-549
+run_uuid: cf59c8b77b37412b955a0ac72647bed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826855025
+status: 3
+tags: []
+user_id: crisu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/c7185429fd24477387c1addd4a42f7a8/artifacts
+end_time: 1732827149236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7185429fd24477387c1addd4a42f7a8
+run_name: languid-mouse-919
+run_uuid: c7185429fd24477387c1addd4a42f7a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827145482
+status: 3
+tags: []
+user_id: crisu

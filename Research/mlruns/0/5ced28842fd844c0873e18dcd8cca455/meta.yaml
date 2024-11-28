@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/5ced28842fd844c0873e18dcd8cca455/artifacts
+end_time: 1732827105083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ced28842fd844c0873e18dcd8cca455
+run_name: useful-skunk-174
+run_uuid: 5ced28842fd844c0873e18dcd8cca455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827096649
+status: 3
+tags: []
+user_id: crisu

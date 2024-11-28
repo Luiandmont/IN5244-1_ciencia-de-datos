@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/4559e38fbd6a402788f6e41f0664cc5c/artifacts
+end_time: 1732827135453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4559e38fbd6a402788f6e41f0664cc5c
+run_name: lyrical-ray-372
+run_uuid: 4559e38fbd6a402788f6e41f0664cc5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827133097
+status: 3
+tags: []
+user_id: crisu

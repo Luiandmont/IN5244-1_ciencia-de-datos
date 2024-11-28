@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/e443f1944e184f74bb096e2429919d0f/artifacts
+end_time: 1732826672489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e443f1944e184f74bb096e2429919d0f
+run_name: abrasive-croc-65
+run_uuid: e443f1944e184f74bb096e2429919d0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826670101
+status: 3
+tags: []
+user_id: crisu

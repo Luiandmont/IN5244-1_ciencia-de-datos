@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/048a4683f51b48e1b52fd990a774a6e4/artifacts
+end_time: 1732826683972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 048a4683f51b48e1b52fd990a774a6e4
+run_name: nebulous-sponge-645
+run_uuid: 048a4683f51b48e1b52fd990a774a6e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826676692
+status: 3
+tags: []
+user_id: crisu

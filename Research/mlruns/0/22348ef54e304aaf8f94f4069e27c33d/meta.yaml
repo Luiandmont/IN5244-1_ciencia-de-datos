@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/22348ef54e304aaf8f94f4069e27c33d/artifacts
+end_time: 1732826901842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22348ef54e304aaf8f94f4069e27c33d
+run_name: incongruous-wolf-310
+run_uuid: 22348ef54e304aaf8f94f4069e27c33d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826899580
+status: 3
+tags: []
+user_id: crisu

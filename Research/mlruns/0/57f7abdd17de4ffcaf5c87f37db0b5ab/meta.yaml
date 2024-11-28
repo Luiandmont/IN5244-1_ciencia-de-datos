@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/57f7abdd17de4ffcaf5c87f37db0b5ab/artifacts
+end_time: 1732826783248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57f7abdd17de4ffcaf5c87f37db0b5ab
+run_name: bustling-skink-152
+run_uuid: 57f7abdd17de4ffcaf5c87f37db0b5ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826768295
+status: 3
+tags: []
+user_id: crisu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/84ecbf10ea754f0ebe4fd01df1fc4446/artifacts
+end_time: 1732826670096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84ecbf10ea754f0ebe4fd01df1fc4446
+run_name: honorable-newt-122
+run_uuid: 84ecbf10ea754f0ebe4fd01df1fc4446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826667809
+status: 3
+tags: []
+user_id: crisu

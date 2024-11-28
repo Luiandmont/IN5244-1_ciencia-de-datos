@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/34424794f78941348e8373d84217ac7b/artifacts
+end_time: 1732827158865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34424794f78941348e8373d84217ac7b
+run_name: rambunctious-bug-47
+run_uuid: 34424794f78941348e8373d84217ac7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732827154558
+status: 3
+tags: []
+user_id: crisu

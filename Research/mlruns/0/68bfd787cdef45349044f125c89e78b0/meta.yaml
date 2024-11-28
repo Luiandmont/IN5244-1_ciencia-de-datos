@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/68bfd787cdef45349044f125c89e78b0/artifacts
+end_time: 1732827003682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68bfd787cdef45349044f125c89e78b0
+run_name: dapper-elk-190
+run_uuid: 68bfd787cdef45349044f125c89e78b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826979608
+status: 3
+tags: []
+user_id: crisu

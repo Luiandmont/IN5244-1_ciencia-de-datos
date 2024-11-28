@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/44c3576b72c743748d4845640da9e1fc/artifacts
+end_time: 1732826500513
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44c3576b72c743748d4845640da9e1fc
+run_name: unequaled-jay-978
+run_uuid: 44c3576b72c743748d4845640da9e1fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826497767
+status: 3
+tags: []
+user_id: crisu

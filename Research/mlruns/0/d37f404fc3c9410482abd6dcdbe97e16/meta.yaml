@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/d37f404fc3c9410482abd6dcdbe97e16/artifacts
+end_time: 1732826838628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d37f404fc3c9410482abd6dcdbe97e16
+run_name: unruly-smelt-358
+run_uuid: d37f404fc3c9410482abd6dcdbe97e16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732826823192
+status: 3
+tags: []
+user_id: crisu
