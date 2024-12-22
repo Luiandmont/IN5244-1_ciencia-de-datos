@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/a90065ffc46b424db164559e446f919f/artifacts
+end_time: 1732914992537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a90065ffc46b424db164559e446f919f
+run_name: bouncy-elk-817
+run_uuid: a90065ffc46b424db164559e446f919f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914989276
+status: 3
+tags: []
+user_id: luian

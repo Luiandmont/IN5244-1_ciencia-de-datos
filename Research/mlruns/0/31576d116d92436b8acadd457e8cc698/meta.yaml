@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/31576d116d92436b8acadd457e8cc698/artifacts
+end_time: 1732915050811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31576d116d92436b8acadd457e8cc698
+run_name: worried-cat-714
+run_uuid: 31576d116d92436b8acadd457e8cc698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915047291
+status: 3
+tags: []
+user_id: luian

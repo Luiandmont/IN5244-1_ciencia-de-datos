@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/d758d6292a864c3c9ad389328a7632aa/artifacts
+end_time: 1732912647231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d758d6292a864c3c9ad389328a7632aa
+run_name: intrigued-pig-793
+run_uuid: d758d6292a864c3c9ad389328a7632aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912645612
+status: 3
+tags: []
+user_id: luian

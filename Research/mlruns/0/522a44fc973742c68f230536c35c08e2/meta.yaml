@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/522a44fc973742c68f230536c35c08e2/artifacts
+end_time: 1734799873015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 522a44fc973742c68f230536c35c08e2
+run_name: colorful-stag-378
+run_uuid: 522a44fc973742c68f230536c35c08e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799870427
+status: 3
+tags: []
+user_id: luian

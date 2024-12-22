@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/6385df7c8d8b49518189c42741604a15/artifacts
+end_time: 1732914921696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6385df7c8d8b49518189c42741604a15
+run_name: blushing-bird-642
+run_uuid: 6385df7c8d8b49518189c42741604a15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914918697
+status: 3
+tags: []
+user_id: luian

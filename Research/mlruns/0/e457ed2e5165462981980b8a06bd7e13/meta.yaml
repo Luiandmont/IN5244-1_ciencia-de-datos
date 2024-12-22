@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/e457ed2e5165462981980b8a06bd7e13/artifacts
+end_time: 1732913728705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e457ed2e5165462981980b8a06bd7e13
+run_name: luminous-mole-911
+run_uuid: e457ed2e5165462981980b8a06bd7e13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913728661
+status: 4
+tags: []
+user_id: luian

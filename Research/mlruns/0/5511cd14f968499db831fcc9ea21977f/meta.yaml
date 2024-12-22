@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/5511cd14f968499db831fcc9ea21977f/artifacts
+end_time: 1732914016135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5511cd14f968499db831fcc9ea21977f
+run_name: serious-conch-137
+run_uuid: 5511cd14f968499db831fcc9ea21977f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914011698
+status: 3
+tags: []
+user_id: luian

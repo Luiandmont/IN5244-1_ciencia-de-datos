@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/8873c53ecbea458cbb6f7b15cef06542/artifacts
+end_time: 1732914056679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8873c53ecbea458cbb6f7b15cef06542
+run_name: respected-calf-620
+run_uuid: 8873c53ecbea458cbb6f7b15cef06542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914052638
+status: 3
+tags: []
+user_id: luian

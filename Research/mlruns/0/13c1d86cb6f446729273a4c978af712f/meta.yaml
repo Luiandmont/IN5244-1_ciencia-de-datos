@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/13c1d86cb6f446729273a4c978af712f/artifacts
+end_time: 1732915063727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13c1d86cb6f446729273a4c978af712f
+run_name: welcoming-bass-142
+run_uuid: 13c1d86cb6f446729273a4c978af712f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915062243
+status: 3
+tags: []
+user_id: luian

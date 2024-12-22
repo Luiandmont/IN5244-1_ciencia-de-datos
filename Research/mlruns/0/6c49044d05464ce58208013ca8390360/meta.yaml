@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/6c49044d05464ce58208013ca8390360/artifacts
+end_time: 1734723839654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c49044d05464ce58208013ca8390360
+run_name: mysterious-fish-117
+run_uuid: 6c49044d05464ce58208013ca8390360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723837511
+status: 3
+tags: []
+user_id: luian

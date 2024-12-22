@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/1ed5725f261e41efa446f40f4a479ec5/artifacts
+end_time: 1732912710638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ed5725f261e41efa446f40f4a479ec5
+run_name: debonair-skink-564
+run_uuid: 1ed5725f261e41efa446f40f4a479ec5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912708095
+status: 3
+tags: []
+user_id: luian

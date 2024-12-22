@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/302670b8382a4fb6aac0e54add23f242/artifacts
+end_time: 1734800019355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 302670b8382a4fb6aac0e54add23f242
+run_name: overjoyed-carp-541
+run_uuid: 302670b8382a4fb6aac0e54add23f242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800015407
+status: 3
+tags: []
+user_id: luian

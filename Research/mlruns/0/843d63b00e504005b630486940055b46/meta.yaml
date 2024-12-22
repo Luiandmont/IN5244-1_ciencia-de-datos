@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/843d63b00e504005b630486940055b46/artifacts
+end_time: 1732912948255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 843d63b00e504005b630486940055b46
+run_name: dapper-gnu-339
+run_uuid: 843d63b00e504005b630486940055b46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912946344
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/511c4754fa71493da9d474b3ee5625e9/artifacts
+end_time: 1732915173776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 511c4754fa71493da9d474b3ee5625e9
+run_name: carefree-croc-172
+run_uuid: 511c4754fa71493da9d474b3ee5625e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915171467
+status: 3
+tags: []
+user_id: luian

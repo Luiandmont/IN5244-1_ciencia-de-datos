@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/61f6a153fd354d7eb7f024fda5913653/artifacts
+end_time: 1732915486578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61f6a153fd354d7eb7f024fda5913653
+run_name: unleashed-seal-203
+run_uuid: 61f6a153fd354d7eb7f024fda5913653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915485934
+status: 3
+tags: []
+user_id: luian

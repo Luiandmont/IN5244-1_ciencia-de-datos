@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/900292ef90324fa39e8aee47d42b5b8f/artifacts
+end_time: 1734723717420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 900292ef90324fa39e8aee47d42b5b8f
+run_name: gaudy-ape-938
+run_uuid: 900292ef90324fa39e8aee47d42b5b8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723707240
+status: 3
+tags: []
+user_id: luian

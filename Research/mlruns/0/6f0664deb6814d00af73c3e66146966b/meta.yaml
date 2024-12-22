@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/6f0664deb6814d00af73c3e66146966b/artifacts
+end_time: 1732913846129
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f0664deb6814d00af73c3e66146966b
+run_name: fearless-mule-655
+run_uuid: 6f0664deb6814d00af73c3e66146966b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913841305
+status: 3
+tags: []
+user_id: luian

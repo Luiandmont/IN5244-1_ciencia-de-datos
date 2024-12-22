@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/c46c36b503774a28b24472d4a3e88fe1/artifacts
+end_time: 1732913904093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c46c36b503774a28b24472d4a3e88fe1
+run_name: honorable-steed-364
+run_uuid: c46c36b503774a28b24472d4a3e88fe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913900648
+status: 3
+tags: []
+user_id: luian

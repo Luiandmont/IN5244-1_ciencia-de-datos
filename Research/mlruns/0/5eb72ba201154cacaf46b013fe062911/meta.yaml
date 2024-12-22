@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/5eb72ba201154cacaf46b013fe062911/artifacts
+end_time: 1732915547171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5eb72ba201154cacaf46b013fe062911
+run_name: righteous-deer-173
+run_uuid: 5eb72ba201154cacaf46b013fe062911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915543483
+status: 3
+tags: []
+user_id: luian

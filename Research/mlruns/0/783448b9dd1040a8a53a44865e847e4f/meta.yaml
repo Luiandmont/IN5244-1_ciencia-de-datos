@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/783448b9dd1040a8a53a44865e847e4f/artifacts
+end_time: 1732912855223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 783448b9dd1040a8a53a44865e847e4f
+run_name: treasured-donkey-669
+run_uuid: 783448b9dd1040a8a53a44865e847e4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912852642
+status: 3
+tags: []
+user_id: luian

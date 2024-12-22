@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/944e3bff2bd84e4a846507739f4321e9/artifacts
+end_time: 1734800302676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 944e3bff2bd84e4a846507739f4321e9
+run_name: nervous-ram-607
+run_uuid: 944e3bff2bd84e4a846507739f4321e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800296637
+status: 3
+tags: []
+user_id: luian

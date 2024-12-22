@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/9fe91bb5ff5640b2befd56b9dd4232aa/artifacts
+end_time: 1734800257647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fe91bb5ff5640b2befd56b9dd4232aa
+run_name: adaptable-goose-3
+run_uuid: 9fe91bb5ff5640b2befd56b9dd4232aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800251662
+status: 3
+tags: []
+user_id: luian

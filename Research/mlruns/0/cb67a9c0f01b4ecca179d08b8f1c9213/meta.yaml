@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/cb67a9c0f01b4ecca179d08b8f1c9213/artifacts
+end_time: 1732915443209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb67a9c0f01b4ecca179d08b8f1c9213
+run_name: enchanting-owl-946
+run_uuid: cb67a9c0f01b4ecca179d08b8f1c9213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915441717
+status: 3
+tags: []
+user_id: luian

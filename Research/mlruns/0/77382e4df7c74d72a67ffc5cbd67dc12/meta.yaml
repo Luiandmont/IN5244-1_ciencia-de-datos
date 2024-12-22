@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/77382e4df7c74d72a67ffc5cbd67dc12/artifacts
+end_time: 1732913927999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77382e4df7c74d72a67ffc5cbd67dc12
+run_name: bouncy-snipe-135
+run_uuid: 77382e4df7c74d72a67ffc5cbd67dc12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913926444
+status: 3
+tags: []
+user_id: luian

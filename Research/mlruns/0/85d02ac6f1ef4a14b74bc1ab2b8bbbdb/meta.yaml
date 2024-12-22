@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/85d02ac6f1ef4a14b74bc1ab2b8bbbdb/artifacts
+end_time: 1734800116951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85d02ac6f1ef4a14b74bc1ab2b8bbbdb
+run_name: bemused-stoat-129
+run_uuid: 85d02ac6f1ef4a14b74bc1ab2b8bbbdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800108994
+status: 3
+tags: []
+user_id: luian

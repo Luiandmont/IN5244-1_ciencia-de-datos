@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/652911f7d5cd460985974b291734ba9a/artifacts
+end_time: 1732915164855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 652911f7d5cd460985974b291734ba9a
+run_name: abundant-crane-766
+run_uuid: 652911f7d5cd460985974b291734ba9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915162551
+status: 3
+tags: []
+user_id: luian

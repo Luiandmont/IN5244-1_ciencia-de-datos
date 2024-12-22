@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/f2fd93a1e9224677acc1435e137d28ea/artifacts
+end_time: 1734723842304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2fd93a1e9224677acc1435e137d28ea
+run_name: sassy-robin-4
+run_uuid: f2fd93a1e9224677acc1435e137d28ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723839694
+status: 3
+tags: []
+user_id: luian

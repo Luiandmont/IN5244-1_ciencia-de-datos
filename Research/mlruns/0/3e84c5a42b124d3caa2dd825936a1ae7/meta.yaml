@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/3e84c5a42b124d3caa2dd825936a1ae7/artifacts
+end_time: 1732915217769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e84c5a42b124d3caa2dd825936a1ae7
+run_name: masked-shad-172
+run_uuid: 3e84c5a42b124d3caa2dd825936a1ae7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915215772
+status: 3
+tags: []
+user_id: luian

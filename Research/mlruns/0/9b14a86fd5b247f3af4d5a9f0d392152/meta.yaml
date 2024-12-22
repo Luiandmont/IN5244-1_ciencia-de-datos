@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/9b14a86fd5b247f3af4d5a9f0d392152/artifacts
+end_time: 1732915286965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b14a86fd5b247f3af4d5a9f0d392152
+run_name: merciful-hog-82
+run_uuid: 9b14a86fd5b247f3af4d5a9f0d392152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915284930
+status: 3
+tags: []
+user_id: luian

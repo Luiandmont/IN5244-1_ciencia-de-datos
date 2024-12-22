@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/c055006b226748b99a2c54cc77a77c8c/artifacts
+end_time: 1734723793808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c055006b226748b99a2c54cc77a77c8c
+run_name: bald-fowl-7
+run_uuid: c055006b226748b99a2c54cc77a77c8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723791140
+status: 3
+tags: []
+user_id: luian

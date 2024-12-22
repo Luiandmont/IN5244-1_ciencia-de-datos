@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/085a16efe5f74373a3add2af6c068bb8/artifacts
+end_time: 1732915585622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 085a16efe5f74373a3add2af6c068bb8
+run_name: upset-owl-128
+run_uuid: 085a16efe5f74373a3add2af6c068bb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915582017
+status: 3
+tags: []
+user_id: luian

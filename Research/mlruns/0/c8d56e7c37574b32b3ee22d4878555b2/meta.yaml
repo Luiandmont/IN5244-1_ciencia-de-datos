@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/c8d56e7c37574b32b3ee22d4878555b2/artifacts
+end_time: 1732914946127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8d56e7c37574b32b3ee22d4878555b2
+run_name: bustling-hound-372
+run_uuid: c8d56e7c37574b32b3ee22d4878555b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914943561
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/4c60435b4e6d46479946de5a44000bb0/artifacts
+end_time: 1732915268140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c60435b4e6d46479946de5a44000bb0
+run_name: unleashed-roo-788
+run_uuid: 4c60435b4e6d46479946de5a44000bb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915266254
+status: 3
+tags: []
+user_id: luian

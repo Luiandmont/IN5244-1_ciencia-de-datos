@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/292d25c195ca4e33837eb13668bd20ce/artifacts
+end_time: 1732915211249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 292d25c195ca4e33837eb13668bd20ce
+run_name: charming-shad-6
+run_uuid: 292d25c195ca4e33837eb13668bd20ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915209222
+status: 3
+tags: []
+user_id: luian

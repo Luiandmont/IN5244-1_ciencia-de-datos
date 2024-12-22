@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/78c26a4193824c71a2f3a05249bf209d/artifacts
+end_time: 1734800373119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78c26a4193824c71a2f3a05249bf209d
+run_name: capable-shad-736
+run_uuid: 78c26a4193824c71a2f3a05249bf209d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800365171
+status: 3
+tags: []
+user_id: luian

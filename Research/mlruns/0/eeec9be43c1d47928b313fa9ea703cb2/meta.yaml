@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/eeec9be43c1d47928b313fa9ea703cb2/artifacts
+end_time: 1732915119805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eeec9be43c1d47928b313fa9ea703cb2
+run_name: sincere-skink-590
+run_uuid: eeec9be43c1d47928b313fa9ea703cb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915117048
+status: 3
+tags: []
+user_id: luian

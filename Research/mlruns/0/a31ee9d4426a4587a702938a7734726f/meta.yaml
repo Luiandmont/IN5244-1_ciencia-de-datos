@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/a31ee9d4426a4587a702938a7734726f/artifacts
+end_time: 1732914833896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a31ee9d4426a4587a702938a7734726f
+run_name: serious-cow-609
+run_uuid: a31ee9d4426a4587a702938a7734726f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914830525
+status: 3
+tags: []
+user_id: luian

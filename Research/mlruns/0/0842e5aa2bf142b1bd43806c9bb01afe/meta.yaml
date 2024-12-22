@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/0842e5aa2bf142b1bd43806c9bb01afe/artifacts
+end_time: 1734723746224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0842e5aa2bf142b1bd43806c9bb01afe
+run_name: casual-lark-494
+run_uuid: 0842e5aa2bf142b1bd43806c9bb01afe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723742515
+status: 3
+tags: []
+user_id: luian

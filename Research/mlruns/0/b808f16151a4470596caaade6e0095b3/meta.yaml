@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/b808f16151a4470596caaade6e0095b3/artifacts
+end_time: 1734723720541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b808f16151a4470596caaade6e0095b3
+run_name: sassy-tern-11
+run_uuid: b808f16151a4470596caaade6e0095b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723717448
+status: 3
+tags: []
+user_id: luian

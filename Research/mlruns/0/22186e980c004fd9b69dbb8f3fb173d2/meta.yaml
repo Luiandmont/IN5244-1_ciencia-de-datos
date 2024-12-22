@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/22186e980c004fd9b69dbb8f3fb173d2/artifacts
+end_time: 1732914129387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22186e980c004fd9b69dbb8f3fb173d2
+run_name: industrious-hare-490
+run_uuid: 22186e980c004fd9b69dbb8f3fb173d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914125136
+status: 3
+tags: []
+user_id: luian

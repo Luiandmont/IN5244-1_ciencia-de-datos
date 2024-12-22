@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/880831f8c66c49b4bf3b92135ab55946/artifacts
+end_time: 1732914863666
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 880831f8c66c49b4bf3b92135ab55946
+run_name: brawny-vole-365
+run_uuid: 880831f8c66c49b4bf3b92135ab55946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914862242
+status: 3
+tags: []
+user_id: luian

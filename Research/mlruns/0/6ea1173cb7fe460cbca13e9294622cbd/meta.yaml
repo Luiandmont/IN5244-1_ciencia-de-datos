@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/6ea1173cb7fe460cbca13e9294622cbd/artifacts
+end_time: 1732915284897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ea1173cb7fe460cbca13e9294622cbd
+run_name: spiffy-zebra-933
+run_uuid: 6ea1173cb7fe460cbca13e9294622cbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915283010
+status: 3
+tags: []
+user_id: luian

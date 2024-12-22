@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/a3cb40ca54ee4b829ff10d7880d28a84/artifacts
+end_time: 1732912774231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3cb40ca54ee4b829ff10d7880d28a84
+run_name: monumental-auk-382
+run_uuid: a3cb40ca54ee4b829ff10d7880d28a84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912765947
+status: 3
+tags: []
+user_id: luian

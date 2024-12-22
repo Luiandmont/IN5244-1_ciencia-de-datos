@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/82abb54fa84c4e31aae458f08bb94fa2/artifacts
+end_time: 1732915376052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82abb54fa84c4e31aae458f08bb94fa2
+run_name: intrigued-mole-164
+run_uuid: 82abb54fa84c4e31aae458f08bb94fa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915374282
+status: 3
+tags: []
+user_id: luian

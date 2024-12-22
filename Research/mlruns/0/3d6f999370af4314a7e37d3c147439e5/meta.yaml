@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/3d6f999370af4314a7e37d3c147439e5/artifacts
+end_time: 1734723612223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d6f999370af4314a7e37d3c147439e5
+run_name: unruly-dove-139
+run_uuid: 3d6f999370af4314a7e37d3c147439e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723610108
+status: 3
+tags: []
+user_id: luian

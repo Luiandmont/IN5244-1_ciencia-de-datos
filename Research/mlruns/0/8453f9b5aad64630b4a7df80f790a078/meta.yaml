@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/8453f9b5aad64630b4a7df80f790a078/artifacts
+end_time: 1732915635347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8453f9b5aad64630b4a7df80f790a078
+run_name: puzzled-dolphin-268
+run_uuid: 8453f9b5aad64630b4a7df80f790a078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915633759
+status: 3
+tags: []
+user_id: luian

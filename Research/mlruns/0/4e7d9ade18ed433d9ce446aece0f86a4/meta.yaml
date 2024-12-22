@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/4e7d9ade18ed433d9ce446aece0f86a4/artifacts
+end_time: 1732915331081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e7d9ade18ed433d9ce446aece0f86a4
+run_name: intelligent-boar-341
+run_uuid: 4e7d9ade18ed433d9ce446aece0f86a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915329234
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/3739f81bcfab401892c3dfa5036c0128/artifacts
+end_time: 1734799807775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3739f81bcfab401892c3dfa5036c0128
+run_name: colorful-moth-25
+run_uuid: 3739f81bcfab401892c3dfa5036c0128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799803253
+status: 3
+tags: []
+user_id: luian

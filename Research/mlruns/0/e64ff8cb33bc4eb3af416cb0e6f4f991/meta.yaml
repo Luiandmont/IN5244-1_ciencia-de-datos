@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/e64ff8cb33bc4eb3af416cb0e6f4f991/artifacts
+end_time: 1732915419258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e64ff8cb33bc4eb3af416cb0e6f4f991
+run_name: popular-tern-520
+run_uuid: e64ff8cb33bc4eb3af416cb0e6f4f991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915417034
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/7a1b4a3377234d95a461bc7bc9bb42c9/artifacts
+end_time: 1732915206786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a1b4a3377234d95a461bc7bc9bb42c9
+run_name: chill-koi-394
+run_uuid: 7a1b4a3377234d95a461bc7bc9bb42c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915204930
+status: 3
+tags: []
+user_id: luian

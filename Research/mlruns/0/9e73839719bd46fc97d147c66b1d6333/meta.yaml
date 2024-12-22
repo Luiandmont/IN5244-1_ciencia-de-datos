@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/9e73839719bd46fc97d147c66b1d6333/artifacts
+end_time: 1734800185675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e73839719bd46fc97d147c66b1d6333
+run_name: respected-stork-277
+run_uuid: 9e73839719bd46fc97d147c66b1d6333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800178152
+status: 3
+tags: []
+user_id: luian

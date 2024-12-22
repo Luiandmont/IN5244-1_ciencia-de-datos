@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/ca17d0a7fc28441993d14cfe39db4e58/artifacts
+end_time: 1732912949900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca17d0a7fc28441993d14cfe39db4e58
+run_name: valuable-kite-811
+run_uuid: ca17d0a7fc28441993d14cfe39db4e58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912948276
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/b7e8cfc59d2c49fdb6326373f2500c5f/artifacts
+end_time: 1732914860724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7e8cfc59d2c49fdb6326373f2500c5f
+run_name: useful-foal-34
+run_uuid: b7e8cfc59d2c49fdb6326373f2500c5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914857290
+status: 3
+tags: []
+user_id: luian

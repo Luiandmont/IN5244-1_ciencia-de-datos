@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/ab017ed1077e4a08a1c7ace8b97a26a8/artifacts
+end_time: 1734799936660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab017ed1077e4a08a1c7ace8b97a26a8
+run_name: classy-dog-656
+run_uuid: ab017ed1077e4a08a1c7ace8b97a26a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799934043
+status: 3
+tags: []
+user_id: luian

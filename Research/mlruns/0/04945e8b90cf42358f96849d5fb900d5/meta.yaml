@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/04945e8b90cf42358f96849d5fb900d5/artifacts
+end_time: 1732915640730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04945e8b90cf42358f96849d5fb900d5
+run_name: salty-panda-986
+run_uuid: 04945e8b90cf42358f96849d5fb900d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915638079
+status: 3
+tags: []
+user_id: luian

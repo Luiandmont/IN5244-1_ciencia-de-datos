@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/a0a17ad30eaa4773acb26c317c034da1/artifacts
+end_time: 1732915367912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0a17ad30eaa4773acb26c317c034da1
+run_name: receptive-snipe-106
+run_uuid: a0a17ad30eaa4773acb26c317c034da1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915364982
+status: 3
+tags: []
+user_id: luian

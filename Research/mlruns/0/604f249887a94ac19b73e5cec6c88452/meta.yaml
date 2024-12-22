@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/604f249887a94ac19b73e5cec6c88452/artifacts
+end_time: 1734799950873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 604f249887a94ac19b73e5cec6c88452
+run_name: redolent-bug-308
+run_uuid: 604f249887a94ac19b73e5cec6c88452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799947906
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/0887124085874824a64850663f4d2123/artifacts
+end_time: 1734723667787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0887124085874824a64850663f4d2123
+run_name: zealous-goose-378
+run_uuid: 0887124085874824a64850663f4d2123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723664672
+status: 3
+tags: []
+user_id: luian

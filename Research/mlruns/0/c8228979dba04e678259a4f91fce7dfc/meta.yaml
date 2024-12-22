@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/c8228979dba04e678259a4f91fce7dfc/artifacts
+end_time: 1734800178069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8228979dba04e678259a4f91fce7dfc
+run_name: marvelous-shad-882
+run_uuid: c8228979dba04e678259a4f91fce7dfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800166946
+status: 3
+tags: []
+user_id: luian

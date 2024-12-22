@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/81beb908461648f58a23ce8f910abd73/artifacts
+end_time: 1732915644863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81beb908461648f58a23ce8f910abd73
+run_name: burly-turtle-350
+run_uuid: 81beb908461648f58a23ce8f910abd73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915642688
+status: 3
+tags: []
+user_id: luian

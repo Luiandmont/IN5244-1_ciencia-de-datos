@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/32fb42bfcef04206960e793bc342915e/artifacts
+end_time: 1732915667747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32fb42bfcef04206960e793bc342915e
+run_name: zealous-fawn-360
+run_uuid: 32fb42bfcef04206960e793bc342915e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915665253
+status: 3
+tags: []
+user_id: luian

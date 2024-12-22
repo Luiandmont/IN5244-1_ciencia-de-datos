@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/12c55910d394436394cd34a93d62e3ef/artifacts
+end_time: 1732915638022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12c55910d394436394cd34a93d62e3ef
+run_name: calm-stag-952
+run_uuid: 12c55910d394436394cd34a93d62e3ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915635413
+status: 3
+tags: []
+user_id: luian

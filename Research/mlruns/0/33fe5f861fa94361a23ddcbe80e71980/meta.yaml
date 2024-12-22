@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/33fe5f861fa94361a23ddcbe80e71980/artifacts
+end_time: 1732914996212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33fe5f861fa94361a23ddcbe80e71980
+run_name: rumbling-turtle-746
+run_uuid: 33fe5f861fa94361a23ddcbe80e71980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914992562
+status: 3
+tags: []
+user_id: luian

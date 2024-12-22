@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/0e2cbc1a01d54c7b8561bbdc643f8ef0/artifacts
+end_time: 1732915529700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e2cbc1a01d54c7b8561bbdc643f8ef0
+run_name: smiling-elk-311
+run_uuid: 0e2cbc1a01d54c7b8561bbdc643f8ef0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915525427
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/b58cdc2c5c9c4297ad670915beff2fc1/artifacts
+end_time: 1734723824503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b58cdc2c5c9c4297ad670915beff2fc1
+run_name: zealous-shoat-985
+run_uuid: b58cdc2c5c9c4297ad670915beff2fc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723821806
+status: 3
+tags: []
+user_id: luian

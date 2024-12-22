@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/062c5d575fa5482b8ca8b6c8e7e63c42/artifacts
+end_time: 1734799876614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 062c5d575fa5482b8ca8b6c8e7e63c42
+run_name: valuable-fish-68
+run_uuid: 062c5d575fa5482b8ca8b6c8e7e63c42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799873035
+status: 3
+tags: []
+user_id: luian

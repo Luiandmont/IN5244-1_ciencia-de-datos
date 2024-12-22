@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/60a8fcd62fda401881460ae0806cb389/artifacts
+end_time: 1734799930927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60a8fcd62fda401881460ae0806cb389
+run_name: unleashed-wren-713
+run_uuid: 60a8fcd62fda401881460ae0806cb389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799927039
+status: 3
+tags: []
+user_id: luian

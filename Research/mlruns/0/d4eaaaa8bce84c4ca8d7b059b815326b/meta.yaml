@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/d4eaaaa8bce84c4ca8d7b059b815326b/artifacts
+end_time: 1732915626167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4eaaaa8bce84c4ca8d7b059b815326b
+run_name: auspicious-stork-419
+run_uuid: d4eaaaa8bce84c4ca8d7b059b815326b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915623414
+status: 3
+tags: []
+user_id: luian

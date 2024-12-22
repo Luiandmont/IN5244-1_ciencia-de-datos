@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/6207ec734c444d8b95b07e59879cd694/artifacts
+end_time: 1732915502645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6207ec734c444d8b95b07e59879cd694
+run_name: glamorous-kit-114
+run_uuid: 6207ec734c444d8b95b07e59879cd694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915500300
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/2cc9081a26094350a39d05d675e6adc0/artifacts
+end_time: 1732915074449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cc9081a26094350a39d05d675e6adc0
+run_name: unleashed-shrimp-851
+run_uuid: 2cc9081a26094350a39d05d675e6adc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915071152
+status: 3
+tags: []
+user_id: luian

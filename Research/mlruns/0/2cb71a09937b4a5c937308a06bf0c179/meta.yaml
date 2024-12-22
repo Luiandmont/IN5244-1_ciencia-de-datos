@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/2cb71a09937b4a5c937308a06bf0c179/artifacts
+end_time: 1732915425030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cb71a09937b4a5c937308a06bf0c179
+run_name: bald-wren-795
+run_uuid: 2cb71a09937b4a5c937308a06bf0c179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915422203
+status: 3
+tags: []
+user_id: luian

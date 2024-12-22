@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/fb3d2ef2aac24ff6b197250abbefc532/artifacts
+end_time: 1734799816444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb3d2ef2aac24ff6b197250abbefc532
+run_name: capricious-fish-545
+run_uuid: fb3d2ef2aac24ff6b197250abbefc532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799807789
+status: 3
+tags: []
+user_id: luian

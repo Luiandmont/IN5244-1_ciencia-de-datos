@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/33cc79ddb4a14f3fb1d0ff59eda42139/artifacts
+end_time: 1732912927095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33cc79ddb4a14f3fb1d0ff59eda42139
+run_name: serious-ape-534
+run_uuid: 33cc79ddb4a14f3fb1d0ff59eda42139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912924900
+status: 3
+tags: []
+user_id: luian

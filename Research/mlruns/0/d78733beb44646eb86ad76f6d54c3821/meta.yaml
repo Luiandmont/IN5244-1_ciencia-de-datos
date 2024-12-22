@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/d78733beb44646eb86ad76f6d54c3821/artifacts
+end_time: 1732915224437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d78733beb44646eb86ad76f6d54c3821
+run_name: sneaky-pug-582
+run_uuid: d78733beb44646eb86ad76f6d54c3821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915221995
+status: 3
+tags: []
+user_id: luian

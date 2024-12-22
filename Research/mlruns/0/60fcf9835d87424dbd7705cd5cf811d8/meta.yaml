@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/60fcf9835d87424dbd7705cd5cf811d8/artifacts
+end_time: 1732914962204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60fcf9835d87424dbd7705cd5cf811d8
+run_name: redolent-crab-48
+run_uuid: 60fcf9835d87424dbd7705cd5cf811d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914957824
+status: 3
+tags: []
+user_id: luian

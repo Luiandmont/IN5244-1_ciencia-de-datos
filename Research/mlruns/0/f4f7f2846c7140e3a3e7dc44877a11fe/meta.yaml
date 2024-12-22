@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/f4f7f2846c7140e3a3e7dc44877a11fe/artifacts
+end_time: 1732915071127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4f7f2846c7140e3a3e7dc44877a11fe
+run_name: stately-ray-92
+run_uuid: f4f7f2846c7140e3a3e7dc44877a11fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915067646
+status: 3
+tags: []
+user_id: luian

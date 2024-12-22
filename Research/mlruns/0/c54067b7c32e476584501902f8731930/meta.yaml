@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/c54067b7c32e476584501902f8731930/artifacts
+end_time: 1732913855554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c54067b7c32e476584501902f8731930
+run_name: powerful-lynx-103
+run_uuid: c54067b7c32e476584501902f8731930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913854805
+status: 3
+tags: []
+user_id: luian

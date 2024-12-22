@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/97dfc7939fd04d28bbccc15b813e708e/artifacts
+end_time: 1732915462204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97dfc7939fd04d28bbccc15b813e708e
+run_name: mercurial-grouse-347
+run_uuid: 97dfc7939fd04d28bbccc15b813e708e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915457477
+status: 3
+tags: []
+user_id: luian

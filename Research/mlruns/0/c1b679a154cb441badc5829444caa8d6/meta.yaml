@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/c1b679a154cb441badc5829444caa8d6/artifacts
+end_time: 1732913867480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1b679a154cb441badc5829444caa8d6
+run_name: stately-snake-69
+run_uuid: c1b679a154cb441badc5829444caa8d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913864488
+status: 3
+tags: []
+user_id: luian

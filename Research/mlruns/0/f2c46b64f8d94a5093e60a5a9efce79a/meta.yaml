@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/f2c46b64f8d94a5093e60a5a9efce79a/artifacts
+end_time: 1734723673608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2c46b64f8d94a5093e60a5a9efce79a
+run_name: blushing-ram-974
+run_uuid: f2c46b64f8d94a5093e60a5a9efce79a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723670405
+status: 3
+tags: []
+user_id: luian

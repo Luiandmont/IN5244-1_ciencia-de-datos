@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/7c300b0c45764bc2a46e7150e56977e6/artifacts
+end_time: 1734800379158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c300b0c45764bc2a46e7150e56977e6
+run_name: wistful-worm-83
+run_uuid: 7c300b0c45764bc2a46e7150e56977e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800373197
+status: 3
+tags: []
+user_id: luian

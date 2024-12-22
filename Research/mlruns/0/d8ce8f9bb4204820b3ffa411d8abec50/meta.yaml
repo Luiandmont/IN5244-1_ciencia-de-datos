@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/d8ce8f9bb4204820b3ffa411d8abec50/artifacts
+end_time: 1732912821175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8ce8f9bb4204820b3ffa411d8abec50
+run_name: invincible-seal-253
+run_uuid: d8ce8f9bb4204820b3ffa411d8abec50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912815750
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/f568d2c360e04348a0a80e4c345936f9/artifacts
+end_time: 1732912918054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f568d2c360e04348a0a80e4c345936f9
+run_name: rogue-bat-933
+run_uuid: f568d2c360e04348a0a80e4c345936f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912914402
+status: 3
+tags: []
+user_id: luian

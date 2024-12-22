@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/42c82ff22f4a4684a123ae8f6cb9209e/artifacts
+end_time: 1732914141392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42c82ff22f4a4684a123ae8f6cb9209e
+run_name: delicate-carp-99
+run_uuid: 42c82ff22f4a4684a123ae8f6cb9209e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914137715
+status: 3
+tags: []
+user_id: luian

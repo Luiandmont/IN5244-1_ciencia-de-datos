@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/6541d578f7254229b30d310501fcb001/artifacts
+end_time: 1732915483962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6541d578f7254229b30d310501fcb001
+run_name: intrigued-mouse-113
+run_uuid: 6541d578f7254229b30d310501fcb001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915480125
+status: 3
+tags: []
+user_id: luian

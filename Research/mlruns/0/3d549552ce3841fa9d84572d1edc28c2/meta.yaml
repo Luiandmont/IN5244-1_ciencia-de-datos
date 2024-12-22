@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/3d549552ce3841fa9d84572d1edc28c2/artifacts
+end_time: 1732912944420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d549552ce3841fa9d84572d1edc28c2
+run_name: omniscient-lamb-804
+run_uuid: 3d549552ce3841fa9d84572d1edc28c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912942548
+status: 3
+tags: []
+user_id: luian

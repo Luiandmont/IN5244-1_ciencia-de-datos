@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/2677e7e117ab4fe0935e71c72f6c3ff9/artifacts
+end_time: 1732913870468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2677e7e117ab4fe0935e71c72f6c3ff9
+run_name: unruly-shrike-456
+run_uuid: 2677e7e117ab4fe0935e71c72f6c3ff9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913867504
+status: 3
+tags: []
+user_id: luian

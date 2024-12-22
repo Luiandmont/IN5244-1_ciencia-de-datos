@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/b738241d25ff4158a2dd6e471814f772/artifacts
+end_time: 1732912832285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b738241d25ff4158a2dd6e471814f772
+run_name: rebellious-gull-976
+run_uuid: b738241d25ff4158a2dd6e471814f772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912828596
+status: 3
+tags: []
+user_id: luian

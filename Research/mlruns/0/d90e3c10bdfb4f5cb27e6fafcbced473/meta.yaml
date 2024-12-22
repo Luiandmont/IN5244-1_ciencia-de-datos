@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/d90e3c10bdfb4f5cb27e6fafcbced473/artifacts
+end_time: 1732915193515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d90e3c10bdfb4f5cb27e6fafcbced473
+run_name: abundant-wolf-437
+run_uuid: d90e3c10bdfb4f5cb27e6fafcbced473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915189970
+status: 3
+tags: []
+user_id: luian

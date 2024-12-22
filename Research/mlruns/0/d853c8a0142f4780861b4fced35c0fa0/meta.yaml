@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/d853c8a0142f4780861b4fced35c0fa0/artifacts
+end_time: 1734800365083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d853c8a0142f4780861b4fced35c0fa0
+run_name: melodic-dove-385
+run_uuid: d853c8a0142f4780861b4fced35c0fa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800358540
+status: 3
+tags: []
+user_id: luian

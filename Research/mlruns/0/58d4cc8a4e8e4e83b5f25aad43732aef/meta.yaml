@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/58d4cc8a4e8e4e83b5f25aad43732aef/artifacts
+end_time: 1734800053969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58d4cc8a4e8e4e83b5f25aad43732aef
+run_name: tasteful-loon-766
+run_uuid: 58d4cc8a4e8e4e83b5f25aad43732aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800048436
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/e263d2ec7b014256bfe099ff09ce8a29/artifacts
+end_time: 1732914916966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e263d2ec7b014256bfe099ff09ce8a29
+run_name: indecisive-finch-707
+run_uuid: e263d2ec7b014256bfe099ff09ce8a29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914914235
+status: 3
+tags: []
+user_id: luian

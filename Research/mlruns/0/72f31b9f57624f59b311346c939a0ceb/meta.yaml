@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/72f31b9f57624f59b311346c939a0ceb/artifacts
+end_time: 1732915187864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72f31b9f57624f59b311346c939a0ceb
+run_name: bittersweet-foal-819
+run_uuid: 72f31b9f57624f59b311346c939a0ceb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915186314
+status: 3
+tags: []
+user_id: luian

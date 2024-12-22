@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/bfecb69a01f74757a2b64a9cd9433c5c/artifacts
+end_time: 1732913952887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfecb69a01f74757a2b64a9cd9433c5c
+run_name: likeable-dolphin-347
+run_uuid: bfecb69a01f74757a2b64a9cd9433c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913948659
+status: 3
+tags: []
+user_id: luian

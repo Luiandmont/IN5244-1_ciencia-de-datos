@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/4f6f0b84252e4fc0a5f9208fe43065b2/artifacts
+end_time: 1732914052610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f6f0b84252e4fc0a5f9208fe43065b2
+run_name: skittish-dove-992
+run_uuid: 4f6f0b84252e4fc0a5f9208fe43065b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914048430
+status: 3
+tags: []
+user_id: luian

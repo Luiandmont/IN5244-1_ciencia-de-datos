@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/4b2e1fd242614e5189c967fff38387e4/artifacts
+end_time: 1732915266231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b2e1fd242614e5189c967fff38387e4
+run_name: mercurial-auk-676
+run_uuid: 4b2e1fd242614e5189c967fff38387e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915264526
+status: 3
+tags: []
+user_id: luian

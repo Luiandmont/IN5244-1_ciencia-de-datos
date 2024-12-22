@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/b272c058a3a942b28594ea82245505b4/artifacts
+end_time: 1734723614466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b272c058a3a942b28594ea82245505b4
+run_name: illustrious-swan-165
+run_uuid: b272c058a3a942b28594ea82245505b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723612283
+status: 3
+tags: []
+user_id: luian

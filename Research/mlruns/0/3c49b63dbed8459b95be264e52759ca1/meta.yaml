@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/3c49b63dbed8459b95be264e52759ca1/artifacts
+end_time: 1732915197227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c49b63dbed8459b95be264e52759ca1
+run_name: suave-fox-359
+run_uuid: 3c49b63dbed8459b95be264e52759ca1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915195417
+status: 3
+tags: []
+user_id: luian

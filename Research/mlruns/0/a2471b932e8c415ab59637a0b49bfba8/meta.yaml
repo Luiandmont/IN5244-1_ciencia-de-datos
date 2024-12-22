@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/a2471b932e8c415ab59637a0b49bfba8/artifacts
+end_time: 1732912649575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2471b932e8c415ab59637a0b49bfba8
+run_name: carefree-zebra-118
+run_uuid: a2471b932e8c415ab59637a0b49bfba8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912647238
+status: 3
+tags: []
+user_id: luian

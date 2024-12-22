@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/318d781037df4ceaaabcb794cb97fa1d/artifacts
+end_time: 1732915417017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 318d781037df4ceaaabcb794cb97fa1d
+run_name: rambunctious-doe-949
+run_uuid: 318d781037df4ceaaabcb794cb97fa1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915415175
+status: 3
+tags: []
+user_id: luian

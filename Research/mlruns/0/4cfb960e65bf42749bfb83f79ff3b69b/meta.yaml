@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/4cfb960e65bf42749bfb83f79ff3b69b/artifacts
+end_time: 1732915329202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cfb960e65bf42749bfb83f79ff3b69b
+run_name: nervous-gnat-385
+run_uuid: 4cfb960e65bf42749bfb83f79ff3b69b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915327269
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/a12d4d5b3e47479e91769d4884f037ed/artifacts
+end_time: 1732914108019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a12d4d5b3e47479e91769d4884f037ed
+run_name: amazing-ape-119
+run_uuid: a12d4d5b3e47479e91769d4884f037ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914103946
+status: 3
+tags: []
+user_id: luian

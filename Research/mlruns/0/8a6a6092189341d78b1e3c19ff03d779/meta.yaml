@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/8a6a6092189341d78b1e3c19ff03d779/artifacts
+end_time: 1732914066786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a6a6092189341d78b1e3c19ff03d779
+run_name: zealous-squid-825
+run_uuid: 8a6a6092189341d78b1e3c19ff03d779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914062640
+status: 3
+tags: []
+user_id: luian

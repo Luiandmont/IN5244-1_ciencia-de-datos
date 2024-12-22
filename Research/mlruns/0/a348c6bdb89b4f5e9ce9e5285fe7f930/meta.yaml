@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/a348c6bdb89b4f5e9ce9e5285fe7f930/artifacts
+end_time: 1732913953586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a348c6bdb89b4f5e9ce9e5285fe7f930
+run_name: amazing-elk-962
+run_uuid: a348c6bdb89b4f5e9ce9e5285fe7f930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913952913
+status: 3
+tags: []
+user_id: luian

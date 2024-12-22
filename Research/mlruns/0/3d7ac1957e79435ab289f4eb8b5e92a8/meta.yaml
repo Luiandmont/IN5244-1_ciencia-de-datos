@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/3d7ac1957e79435ab289f4eb8b5e92a8/artifacts
+end_time: 1732915047265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d7ac1957e79435ab289f4eb8b5e92a8
+run_name: adventurous-steed-8
+run_uuid: 3d7ac1957e79435ab289f4eb8b5e92a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915043596
+status: 3
+tags: []
+user_id: luian

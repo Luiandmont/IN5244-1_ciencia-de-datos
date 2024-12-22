@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/dd643857d43444519fd00afc6ccb4135/artifacts
+end_time: 1732915292888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd643857d43444519fd00afc6ccb4135
+run_name: carefree-seal-714
+run_uuid: dd643857d43444519fd00afc6ccb4135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915291050
+status: 3
+tags: []
+user_id: luian

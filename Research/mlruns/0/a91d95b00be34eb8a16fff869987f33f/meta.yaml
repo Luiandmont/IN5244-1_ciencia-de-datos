@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/a91d95b00be34eb8a16fff869987f33f/artifacts
+end_time: 1732914890059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a91d95b00be34eb8a16fff869987f33f
+run_name: mysterious-chimp-433
+run_uuid: a91d95b00be34eb8a16fff869987f33f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914886666
+status: 3
+tags: []
+user_id: luian

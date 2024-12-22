@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/cc7c5ec0052f481e888bc5ad15c95ed7/artifacts
+end_time: 1732915004937
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc7c5ec0052f481e888bc5ad15c95ed7
+run_name: placid-fawn-397
+run_uuid: cc7c5ec0052f481e888bc5ad15c95ed7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915001442
+status: 3
+tags: []
+user_id: luian

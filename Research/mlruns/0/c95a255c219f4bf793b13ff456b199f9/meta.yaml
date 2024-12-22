@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/c95a255c219f4bf793b13ff456b199f9/artifacts
+end_time: 1732915430836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c95a255c219f4bf793b13ff456b199f9
+run_name: rebellious-pug-259
+run_uuid: c95a255c219f4bf793b13ff456b199f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915428760
+status: 3
+tags: []
+user_id: luian

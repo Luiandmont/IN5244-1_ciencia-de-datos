@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/46a2013fbfc64d32ae1277ed29597ccc/artifacts
+end_time: 1732912936353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46a2013fbfc64d32ae1277ed29597ccc
+run_name: puzzled-grouse-172
+run_uuid: 46a2013fbfc64d32ae1277ed29597ccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912933628
+status: 3
+tags: []
+user_id: luian

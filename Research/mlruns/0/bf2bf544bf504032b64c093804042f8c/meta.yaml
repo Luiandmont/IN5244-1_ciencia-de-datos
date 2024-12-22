@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/bf2bf544bf504032b64c093804042f8c/artifacts
+end_time: 1734723864264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf2bf544bf504032b64c093804042f8c
+run_name: useful-shoat-307
+run_uuid: bf2bf544bf504032b64c093804042f8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723861322
+status: 3
+tags: []
+user_id: luian

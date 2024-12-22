@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/e535eaf4687f4af7a440e5fcb131fb1b/artifacts
+end_time: 1732912662316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e535eaf4687f4af7a440e5fcb131fb1b
+run_name: capricious-roo-960
+run_uuid: e535eaf4687f4af7a440e5fcb131fb1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912658802
+status: 3
+tags: []
+user_id: luian

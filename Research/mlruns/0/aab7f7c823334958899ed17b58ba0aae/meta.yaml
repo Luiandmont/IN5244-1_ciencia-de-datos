@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/aab7f7c823334958899ed17b58ba0aae/artifacts
+end_time: 1732913961606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aab7f7c823334958899ed17b58ba0aae
+run_name: suave-stork-713
+run_uuid: aab7f7c823334958899ed17b58ba0aae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913958049
+status: 3
+tags: []
+user_id: luian

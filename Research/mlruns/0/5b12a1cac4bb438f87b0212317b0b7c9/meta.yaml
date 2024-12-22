@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/5b12a1cac4bb438f87b0212317b0b7c9/artifacts
+end_time: 1734723728058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b12a1cac4bb438f87b0212317b0b7c9
+run_name: luminous-mare-287
+run_uuid: 5b12a1cac4bb438f87b0212317b0b7c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723724484
+status: 3
+tags: []
+user_id: luian

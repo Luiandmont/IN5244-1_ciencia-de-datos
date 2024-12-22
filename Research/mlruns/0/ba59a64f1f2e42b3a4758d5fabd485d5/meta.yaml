@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/ba59a64f1f2e42b3a4758d5fabd485d5/artifacts
+end_time: 1732915631332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba59a64f1f2e42b3a4758d5fabd485d5
+run_name: nebulous-toad-298
+run_uuid: ba59a64f1f2e42b3a4758d5fabd485d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915629492
+status: 3
+tags: []
+user_id: luian

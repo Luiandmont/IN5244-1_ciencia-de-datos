@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/ed085ef4f33b4da6af55e4e0a7f92913/artifacts
+end_time: 1732913859633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed085ef4f33b4da6af55e4e0a7f92913
+run_name: nervous-moose-849
+run_uuid: ed085ef4f33b4da6af55e4e0a7f92913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913855572
+status: 3
+tags: []
+user_id: luian

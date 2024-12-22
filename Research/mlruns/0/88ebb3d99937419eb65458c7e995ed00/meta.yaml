@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/88ebb3d99937419eb65458c7e995ed00/artifacts
+end_time: 1732912737731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88ebb3d99937419eb65458c7e995ed00
+run_name: enthused-fawn-217
+run_uuid: 88ebb3d99937419eb65458c7e995ed00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912731951
+status: 3
+tags: []
+user_id: luian

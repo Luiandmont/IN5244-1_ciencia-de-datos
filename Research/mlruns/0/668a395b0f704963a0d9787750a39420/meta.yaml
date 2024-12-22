@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/668a395b0f704963a0d9787750a39420/artifacts
+end_time: 1732912704530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 668a395b0f704963a0d9787750a39420
+run_name: awesome-owl-799
+run_uuid: 668a395b0f704963a0d9787750a39420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912698923
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/f4af8c46f91d4e848d1c185fea746c1b/artifacts
+end_time: 1732915086836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4af8c46f91d4e848d1c185fea746c1b
+run_name: adaptable-rook-944
+run_uuid: f4af8c46f91d4e848d1c185fea746c1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915085487
+status: 3
+tags: []
+user_id: luian

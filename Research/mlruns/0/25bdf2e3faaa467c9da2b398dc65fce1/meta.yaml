@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/25bdf2e3faaa467c9da2b398dc65fce1/artifacts
+end_time: 1732915543449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25bdf2e3faaa467c9da2b398dc65fce1
+run_name: delightful-goose-807
+run_uuid: 25bdf2e3faaa467c9da2b398dc65fce1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915538558
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/eb7ed2d664c14e4ba3227d3052dcf370/artifacts
+end_time: 1732915613505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb7ed2d664c14e4ba3227d3052dcf370
+run_name: sedate-sponge-506
+run_uuid: eb7ed2d664c14e4ba3227d3052dcf370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915610386
+status: 3
+tags: []
+user_id: luian

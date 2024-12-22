@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/c977f0bdaf0b4d0c941ecfea3d679050/artifacts
+end_time: 1734723858497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c977f0bdaf0b4d0c941ecfea3d679050
+run_name: overjoyed-tern-895
+run_uuid: c977f0bdaf0b4d0c941ecfea3d679050
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723856351
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/c8f55460d74548dfa5476e55fe5ca485/artifacts
+end_time: 1734799867852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8f55460d74548dfa5476e55fe5ca485
+run_name: burly-bear-829
+run_uuid: c8f55460d74548dfa5476e55fe5ca485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799865206
+status: 3
+tags: []
+user_id: luian

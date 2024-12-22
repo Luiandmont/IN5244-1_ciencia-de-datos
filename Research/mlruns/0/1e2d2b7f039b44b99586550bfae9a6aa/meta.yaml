@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/1e2d2b7f039b44b99586550bfae9a6aa/artifacts
+end_time: 1732914935923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e2d2b7f039b44b99586550bfae9a6aa
+run_name: flawless-sow-833
+run_uuid: 1e2d2b7f039b44b99586550bfae9a6aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914931251
+status: 3
+tags: []
+user_id: luian

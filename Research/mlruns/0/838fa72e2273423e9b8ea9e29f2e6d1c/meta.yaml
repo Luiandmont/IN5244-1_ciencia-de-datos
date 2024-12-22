@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/838fa72e2273423e9b8ea9e29f2e6d1c/artifacts
+end_time: 1732915085462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 838fa72e2273423e9b8ea9e29f2e6d1c
+run_name: overjoyed-asp-46
+run_uuid: 838fa72e2273423e9b8ea9e29f2e6d1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915082092
+status: 3
+tags: []
+user_id: luian

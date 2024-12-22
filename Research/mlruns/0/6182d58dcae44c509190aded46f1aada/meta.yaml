@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/6182d58dcae44c509190aded46f1aada/artifacts
+end_time: 1732914950332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6182d58dcae44c509190aded46f1aada
+run_name: sneaky-fawn-297
+run_uuid: 6182d58dcae44c509190aded46f1aada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914946153
+status: 3
+tags: []
+user_id: luian

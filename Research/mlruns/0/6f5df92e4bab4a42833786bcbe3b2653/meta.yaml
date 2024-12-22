@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/6f5df92e4bab4a42833786bcbe3b2653/artifacts
+end_time: 1732915025575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f5df92e4bab4a42833786bcbe3b2653
+run_name: suave-tern-310
+run_uuid: 6f5df92e4bab4a42833786bcbe3b2653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915023400
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/e35f13e4e0c54f5c91dadf9f09ff96d9/artifacts
+end_time: 1734723821775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e35f13e4e0c54f5c91dadf9f09ff96d9
+run_name: entertaining-cub-193
+run_uuid: e35f13e4e0c54f5c91dadf9f09ff96d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723819046
+status: 3
+tags: []
+user_id: luian

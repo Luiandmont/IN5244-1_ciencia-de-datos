@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/344e3b875220453fbec66287dd169f97/artifacts
+end_time: 1732915593803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 344e3b875220453fbec66287dd169f97
+run_name: sedate-vole-986
+run_uuid: 344e3b875220453fbec66287dd169f97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915593001
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/82ada14ea2eb43e3bc873b5a72db65f8/artifacts
+end_time: 1734723641443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82ada14ea2eb43e3bc873b5a72db65f8
+run_name: angry-slug-545
+run_uuid: 82ada14ea2eb43e3bc873b5a72db65f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723639075
+status: 3
+tags: []
+user_id: luian

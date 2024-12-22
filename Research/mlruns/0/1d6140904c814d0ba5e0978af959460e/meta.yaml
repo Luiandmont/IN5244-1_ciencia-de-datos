@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/1d6140904c814d0ba5e0978af959460e/artifacts
+end_time: 1732915452903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d6140904c814d0ba5e0978af959460e
+run_name: omniscient-frog-148
+run_uuid: 1d6140904c814d0ba5e0978af959460e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915451718
+status: 3
+tags: []
+user_id: luian

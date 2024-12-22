@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/edd8c42a374e45e791803165456b91f4/artifacts
+end_time: 1732915000019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edd8c42a374e45e791803165456b91f4
+run_name: melodic-ape-415
+run_uuid: edd8c42a374e45e791803165456b91f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914996238
+status: 3
+tags: []
+user_id: luian

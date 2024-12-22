@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/ac4d295bc4fe4f1d81a0ec32bcc4f8d9/artifacts
+end_time: 1734723639062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac4d295bc4fe4f1d81a0ec32bcc4f8d9
+run_name: zealous-cat-194
+run_uuid: ac4d295bc4fe4f1d81a0ec32bcc4f8d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723636560
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/adf060eface1482785690d1bdae3ca26/artifacts
+end_time: 1732915552281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adf060eface1482785690d1bdae3ca26
+run_name: gregarious-quail-32
+run_uuid: adf060eface1482785690d1bdae3ca26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915547212
+status: 3
+tags: []
+user_id: luian

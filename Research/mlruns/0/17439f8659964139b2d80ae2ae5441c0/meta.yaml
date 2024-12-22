@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/17439f8659964139b2d80ae2ae5441c0/artifacts
+end_time: 1732913864461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17439f8659964139b2d80ae2ae5441c0
+run_name: mercurial-chimp-899
+run_uuid: 17439f8659964139b2d80ae2ae5441c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913859657
+status: 3
+tags: []
+user_id: luian

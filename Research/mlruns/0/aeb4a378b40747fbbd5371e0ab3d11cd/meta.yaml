@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/aeb4a378b40747fbbd5371e0ab3d11cd/artifacts
+end_time: 1732914829363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aeb4a378b40747fbbd5371e0ab3d11cd
+run_name: calm-slug-778
+run_uuid: aeb4a378b40747fbbd5371e0ab3d11cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914825956
+status: 3
+tags: []
+user_id: luian

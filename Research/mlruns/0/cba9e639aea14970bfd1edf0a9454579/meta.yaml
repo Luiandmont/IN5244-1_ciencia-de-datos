@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/cba9e639aea14970bfd1edf0a9454579/artifacts
+end_time: 1732912668123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cba9e639aea14970bfd1edf0a9454579
+run_name: able-turtle-152
+run_uuid: cba9e639aea14970bfd1edf0a9454579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912666219
+status: 3
+tags: []
+user_id: luian

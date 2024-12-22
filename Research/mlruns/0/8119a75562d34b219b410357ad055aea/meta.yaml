@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/8119a75562d34b219b410357ad055aea/artifacts
+end_time: 1734723707178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8119a75562d34b219b410357ad055aea
+run_name: nosy-finch-342
+run_uuid: 8119a75562d34b219b410357ad055aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723704600
+status: 3
+tags: []
+user_id: luian

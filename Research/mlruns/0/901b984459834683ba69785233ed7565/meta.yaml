@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/901b984459834683ba69785233ed7565/artifacts
+end_time: 1732914805153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 901b984459834683ba69785233ed7565
+run_name: grandiose-stoat-240
+run_uuid: 901b984459834683ba69785233ed7565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914802993
+status: 3
+tags: []
+user_id: luian

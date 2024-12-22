@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/7ce3230785104b52a8180157f8d06bc3/artifacts
+end_time: 1732912884719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ce3230785104b52a8180157f8d06bc3
+run_name: brawny-grub-407
+run_uuid: 7ce3230785104b52a8180157f8d06bc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912879865
+status: 3
+tags: []
+user_id: luian

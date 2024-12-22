@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/f830a5b87f6f4c01839ede0ffac35837/artifacts
+end_time: 1732915337453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f830a5b87f6f4c01839ede0ffac35837
+run_name: amusing-moose-926
+run_uuid: f830a5b87f6f4c01839ede0ffac35837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915334970
+status: 3
+tags: []
+user_id: luian

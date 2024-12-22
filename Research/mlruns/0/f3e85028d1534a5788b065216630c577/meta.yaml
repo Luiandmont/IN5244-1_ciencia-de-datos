@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/f3e85028d1534a5788b065216630c577/artifacts
+end_time: 1734723596809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3e85028d1534a5788b065216630c577
+run_name: bustling-lark-482
+run_uuid: f3e85028d1534a5788b065216630c577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723589773
+status: 3
+tags: []
+user_id: luian

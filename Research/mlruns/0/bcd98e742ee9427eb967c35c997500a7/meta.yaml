@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/bcd98e742ee9427eb967c35c997500a7/artifacts
+end_time: 1732915008150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcd98e742ee9427eb967c35c997500a7
+run_name: rare-mare-0
+run_uuid: bcd98e742ee9427eb967c35c997500a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915004962
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/4b8c346334254a6999f395ef07a23916/artifacts
+end_time: 1734723809720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b8c346334254a6999f395ef07a23916
+run_name: serious-hog-596
+run_uuid: 4b8c346334254a6999f395ef07a23916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723807312
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/41d7858ce5694d6681b6142a35afaa4e/artifacts
+end_time: 1732912720005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41d7858ce5694d6681b6142a35afaa4e
+run_name: big-squid-531
+run_uuid: 41d7858ce5694d6681b6142a35afaa4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912716584
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/ced33b87bfeb4ff8babc7470b5446820/artifacts
+end_time: 1732912755680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ced33b87bfeb4ff8babc7470b5446820
+run_name: charming-whale-971
+run_uuid: ced33b87bfeb4ff8babc7470b5446820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912753071
+status: 3
+tags: []
+user_id: luian

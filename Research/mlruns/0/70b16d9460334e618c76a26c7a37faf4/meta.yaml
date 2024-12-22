@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/70b16d9460334e618c76a26c7a37faf4/artifacts
+end_time: 1734800296518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70b16d9460334e618c76a26c7a37faf4
+run_name: rumbling-mule-734
+run_uuid: 70b16d9460334e618c76a26c7a37faf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800289015
+status: 3
+tags: []
+user_id: luian

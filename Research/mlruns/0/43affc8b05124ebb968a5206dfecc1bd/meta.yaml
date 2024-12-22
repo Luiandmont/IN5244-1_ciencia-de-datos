@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/43affc8b05124ebb968a5206dfecc1bd/artifacts
+end_time: 1734799913804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43affc8b05124ebb968a5206dfecc1bd
+run_name: fortunate-toad-703
+run_uuid: 43affc8b05124ebb968a5206dfecc1bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799908464
+status: 3
+tags: []
+user_id: luian

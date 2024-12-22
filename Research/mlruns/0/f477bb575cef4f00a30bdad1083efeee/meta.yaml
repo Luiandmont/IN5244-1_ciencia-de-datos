@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/f477bb575cef4f00a30bdad1083efeee/artifacts
+end_time: 1734800061304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f477bb575cef4f00a30bdad1083efeee
+run_name: hilarious-whale-520
+run_uuid: f477bb575cef4f00a30bdad1083efeee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800054049
+status: 3
+tags: []
+user_id: luian

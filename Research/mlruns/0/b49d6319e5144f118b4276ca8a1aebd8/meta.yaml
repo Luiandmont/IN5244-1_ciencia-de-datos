@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/b49d6319e5144f118b4276ca8a1aebd8/artifacts
+end_time: 1734723801575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b49d6319e5144f118b4276ca8a1aebd8
+run_name: smiling-bee-286
+run_uuid: b49d6319e5144f118b4276ca8a1aebd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723799047
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/5b7cb6c9ac9a42ec91a46409d70ba52a/artifacts
+end_time: 1732912940275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b7cb6c9ac9a42ec91a46409d70ba52a
+run_name: defiant-snail-140
+run_uuid: 5b7cb6c9ac9a42ec91a46409d70ba52a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912937995
+status: 3
+tags: []
+user_id: luian

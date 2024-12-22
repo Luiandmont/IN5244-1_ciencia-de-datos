@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/bab5b63d45044b8ebe152cc3982dc836/artifacts
+end_time: 1734723849728
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bab5b63d45044b8ebe152cc3982dc836
+run_name: judicious-goat-861
+run_uuid: bab5b63d45044b8ebe152cc3982dc836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723847078
+status: 3
+tags: []
+user_id: luian

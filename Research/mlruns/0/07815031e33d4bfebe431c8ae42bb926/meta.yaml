@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/07815031e33d4bfebe431c8ae42bb926/artifacts
+end_time: 1732912746557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07815031e33d4bfebe431c8ae42bb926
+run_name: nosy-cub-26
+run_uuid: 07815031e33d4bfebe431c8ae42bb926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912743291
+status: 3
+tags: []
+user_id: luian

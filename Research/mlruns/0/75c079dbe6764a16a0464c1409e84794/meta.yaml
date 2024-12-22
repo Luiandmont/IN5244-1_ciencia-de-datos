@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/75c079dbe6764a16a0464c1409e84794/artifacts
+end_time: 1732915662407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75c079dbe6764a16a0464c1409e84794
+run_name: suave-steed-457
+run_uuid: 75c079dbe6764a16a0464c1409e84794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915660304
+status: 3
+tags: []
+user_id: luian

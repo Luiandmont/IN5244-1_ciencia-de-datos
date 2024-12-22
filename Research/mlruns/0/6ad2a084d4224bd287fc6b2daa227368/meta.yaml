@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/6ad2a084d4224bd287fc6b2daa227368/artifacts
+end_time: 1732915352684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ad2a084d4224bd287fc6b2daa227368
+run_name: painted-pig-672
+run_uuid: 6ad2a084d4224bd287fc6b2daa227368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915346105
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/eac8db30361f4d41b3ceb0e3e8a0a81e/artifacts
+end_time: 1732915590602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eac8db30361f4d41b3ceb0e3e8a0a81e
+run_name: blushing-stork-482
+run_uuid: eac8db30361f4d41b3ceb0e3e8a0a81e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915587996
+status: 3
+tags: []
+user_id: luian

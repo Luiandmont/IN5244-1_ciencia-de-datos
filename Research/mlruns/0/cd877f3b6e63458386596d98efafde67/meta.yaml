@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/cd877f3b6e63458386596d98efafde67/artifacts
+end_time: 1734799865183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd877f3b6e63458386596d98efafde67
+run_name: polite-cat-311
+run_uuid: cd877f3b6e63458386596d98efafde67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799862990
+status: 3
+tags: []
+user_id: luian

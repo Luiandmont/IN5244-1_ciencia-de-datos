@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/377389b3e2f4474894dcc3bc8a7c15f0/artifacts
+end_time: 1734799852228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 377389b3e2f4474894dcc3bc8a7c15f0
+run_name: marvelous-worm-290
+run_uuid: 377389b3e2f4474894dcc3bc8a7c15f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799846244
+status: 3
+tags: []
+user_id: luian

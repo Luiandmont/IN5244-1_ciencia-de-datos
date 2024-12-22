@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/b093d3462f514d048559309cd4b5b72a/artifacts
+end_time: 1732915576591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b093d3462f514d048559309cd4b5b72a
+run_name: efficient-turtle-148
+run_uuid: b093d3462f514d048559309cd4b5b72a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915573823
+status: 3
+tags: []
+user_id: luian

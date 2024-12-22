@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/ef5831463b224767aeb3bf699a735966/artifacts
+end_time: 1732914812183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef5831463b224767aeb3bf699a735966
+run_name: resilient-hog-529
+run_uuid: ef5831463b224767aeb3bf699a735966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914807644
+status: 3
+tags: []
+user_id: luian

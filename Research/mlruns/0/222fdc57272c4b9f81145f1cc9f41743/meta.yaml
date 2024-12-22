@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/222fdc57272c4b9f81145f1cc9f41743/artifacts
+end_time: 1732915607240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 222fdc57272c4b9f81145f1cc9f41743
+run_name: burly-squid-609
+run_uuid: 222fdc57272c4b9f81145f1cc9f41743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915604962
+status: 3
+tags: []
+user_id: luian

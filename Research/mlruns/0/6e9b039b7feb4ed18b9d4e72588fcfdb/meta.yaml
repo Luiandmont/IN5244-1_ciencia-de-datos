@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/6e9b039b7feb4ed18b9d4e72588fcfdb/artifacts
+end_time: 1734723889629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e9b039b7feb4ed18b9d4e72588fcfdb
+run_name: secretive-shrew-149
+run_uuid: 6e9b039b7feb4ed18b9d4e72588fcfdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723886551
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/40a3404dcacd4e41b9d2d11b83b43787/artifacts
+end_time: 1732915364950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40a3404dcacd4e41b9d2d11b83b43787
+run_name: resilient-skink-113
+run_uuid: 40a3404dcacd4e41b9d2d11b83b43787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915361506
+status: 3
+tags: []
+user_id: luian

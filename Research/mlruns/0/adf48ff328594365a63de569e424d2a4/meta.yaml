@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/adf48ff328594365a63de569e424d2a4/artifacts
+end_time: 1732914975861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adf48ff328594365a63de569e424d2a4
+run_name: victorious-bee-693
+run_uuid: adf48ff328594365a63de569e424d2a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914971195
+status: 3
+tags: []
+user_id: luian

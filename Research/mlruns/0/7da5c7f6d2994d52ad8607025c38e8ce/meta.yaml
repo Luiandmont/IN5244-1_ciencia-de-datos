@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/7da5c7f6d2994d52ad8607025c38e8ce/artifacts
+end_time: 1734799854130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7da5c7f6d2994d52ad8607025c38e8ce
+run_name: redolent-wolf-588
+run_uuid: 7da5c7f6d2994d52ad8607025c38e8ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799852257
+status: 3
+tags: []
+user_id: luian

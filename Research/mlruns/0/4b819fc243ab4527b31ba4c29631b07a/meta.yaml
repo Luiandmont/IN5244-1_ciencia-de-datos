@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/4b819fc243ab4527b31ba4c29631b07a/artifacts
+end_time: 1732914989246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b819fc243ab4527b31ba4c29631b07a
+run_name: dapper-crow-491
+run_uuid: 4b819fc243ab4527b31ba4c29631b07a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914984806
+status: 3
+tags: []
+user_id: luian

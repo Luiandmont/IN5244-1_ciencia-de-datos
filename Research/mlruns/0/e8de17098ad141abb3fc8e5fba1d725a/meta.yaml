@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/e8de17098ad141abb3fc8e5fba1d725a/artifacts
+end_time: 1732915294786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8de17098ad141abb3fc8e5fba1d725a
+run_name: redolent-fowl-355
+run_uuid: e8de17098ad141abb3fc8e5fba1d725a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915292936
+status: 3
+tags: []
+user_id: luian

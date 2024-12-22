@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/1d77f8a7b35a4c8fb222d077d4650a7a/artifacts
+end_time: 1732914893962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d77f8a7b35a4c8fb222d077d4650a7a
+run_name: debonair-ram-305
+run_uuid: 1d77f8a7b35a4c8fb222d077d4650a7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914892620
+status: 3
+tags: []
+user_id: luian

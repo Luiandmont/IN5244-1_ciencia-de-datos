@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/6291400d90aa40b8af3571467cd94290/artifacts
+end_time: 1732915231101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6291400d90aa40b8af3571467cd94290
+run_name: fearless-hare-98
+run_uuid: 6291400d90aa40b8af3571467cd94290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915228866
+status: 3
+tags: []
+user_id: luian

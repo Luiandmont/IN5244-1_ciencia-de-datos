@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/11eaae4ad82743b38a4ee891345c741b/artifacts
+end_time: 1732914818573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11eaae4ad82743b38a4ee891345c741b
+run_name: unleashed-vole-250
+run_uuid: 11eaae4ad82743b38a4ee891345c741b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914816324
+status: 3
+tags: []
+user_id: luian

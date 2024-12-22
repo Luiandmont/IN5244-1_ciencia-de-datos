@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/a5a199d0c575488b9c0684b3705a003c/artifacts
+end_time: 1732912763432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5a199d0c575488b9c0684b3705a003c
+run_name: melodic-snake-555
+run_uuid: a5a199d0c575488b9c0684b3705a003c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912758978
+status: 3
+tags: []
+user_id: luian

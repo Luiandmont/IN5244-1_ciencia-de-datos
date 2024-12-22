@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/5504c773b669421988ae6599e28a42e5/artifacts
+end_time: 1732912628036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5504c773b669421988ae6599e28a42e5
+run_name: popular-vole-530
+run_uuid: 5504c773b669421988ae6599e28a42e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912623751
+status: 3
+tags: []
+user_id: luian

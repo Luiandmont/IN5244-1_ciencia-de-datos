@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/eb64b8f1966c42dda44a62cc302f2231/artifacts
+end_time: 1732913836938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb64b8f1966c42dda44a62cc302f2231
+run_name: sincere-cod-387
+run_uuid: eb64b8f1966c42dda44a62cc302f2231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913832518
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/80cabfce0d2247cd8eb5a25f001a837f/artifacts
+end_time: 1734799858280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80cabfce0d2247cd8eb5a25f001a837f
+run_name: ambitious-hen-406
+run_uuid: 80cabfce0d2247cd8eb5a25f001a837f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799856275
+status: 3
+tags: []
+user_id: luian

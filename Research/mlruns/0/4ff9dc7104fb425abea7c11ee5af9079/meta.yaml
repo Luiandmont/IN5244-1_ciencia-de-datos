@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/4ff9dc7104fb425abea7c11ee5af9079/artifacts
+end_time: 1732912743273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ff9dc7104fb425abea7c11ee5af9079
+run_name: intrigued-newt-161
+run_uuid: 4ff9dc7104fb425abea7c11ee5af9079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912737752
+status: 3
+tags: []
+user_id: luian

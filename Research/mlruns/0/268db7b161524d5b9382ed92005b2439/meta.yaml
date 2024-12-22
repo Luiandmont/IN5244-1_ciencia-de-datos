@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/268db7b161524d5b9382ed92005b2439/artifacts
+end_time: 1732914806148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 268db7b161524d5b9382ed92005b2439
+run_name: masked-mink-525
+run_uuid: 268db7b161524d5b9382ed92005b2439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914805162
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/5e38bb66311a45c1955fd71812b8f97d/artifacts
+end_time: 1732915213858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e38bb66311a45c1955fd71812b8f97d
+run_name: redolent-shrimp-248
+run_uuid: 5e38bb66311a45c1955fd71812b8f97d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915211282
+status: 3
+tags: []
+user_id: luian

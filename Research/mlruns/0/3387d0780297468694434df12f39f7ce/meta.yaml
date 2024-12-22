@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/3387d0780297468694434df12f39f7ce/artifacts
+end_time: 1732915186291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3387d0780297468694434df12f39f7ce
+run_name: adventurous-asp-153
+run_uuid: 3387d0780297468694434df12f39f7ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915183881
+status: 3
+tags: []
+user_id: luian

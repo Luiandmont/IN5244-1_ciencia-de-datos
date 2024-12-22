@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/2ddf429a60df4eeba302c8e7ece6a427/artifacts
+end_time: 1732915215740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ddf429a60df4eeba302c8e7ece6a427
+run_name: judicious-snail-507
+run_uuid: 2ddf429a60df4eeba302c8e7ece6a427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915213888
+status: 3
+tags: []
+user_id: luian

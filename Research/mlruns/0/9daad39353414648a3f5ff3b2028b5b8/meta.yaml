@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/9daad39353414648a3f5ff3b2028b5b8/artifacts
+end_time: 1732913829660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9daad39353414648a3f5ff3b2028b5b8
+run_name: skittish-dog-256
+run_uuid: 9daad39353414648a3f5ff3b2028b5b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913828748
+status: 3
+tags: []
+user_id: luian

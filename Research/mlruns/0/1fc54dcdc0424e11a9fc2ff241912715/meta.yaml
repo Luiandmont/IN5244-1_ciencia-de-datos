@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/1fc54dcdc0424e11a9fc2ff241912715/artifacts
+end_time: 1732915441686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fc54dcdc0424e11a9fc2ff241912715
+run_name: placid-slug-461
+run_uuid: 1fc54dcdc0424e11a9fc2ff241912715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915440244
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/a204d07150e54c05bdf33f178b4f7732/artifacts
+end_time: 1732912879845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a204d07150e54c05bdf33f178b4f7732
+run_name: receptive-fish-834
+run_uuid: a204d07150e54c05bdf33f178b4f7732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912871290
+status: 3
+tags: []
+user_id: luian

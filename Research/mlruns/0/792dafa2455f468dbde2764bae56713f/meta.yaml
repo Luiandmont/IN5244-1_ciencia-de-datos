@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/792dafa2455f468dbde2764bae56713f/artifacts
+end_time: 1734799916685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 792dafa2455f468dbde2764bae56713f
+run_name: righteous-snake-85
+run_uuid: 792dafa2455f468dbde2764bae56713f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799913850
+status: 3
+tags: []
+user_id: luian

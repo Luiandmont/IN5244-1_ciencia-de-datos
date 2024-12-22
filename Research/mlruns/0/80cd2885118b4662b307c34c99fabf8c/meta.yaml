@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/80cd2885118b4662b307c34c99fabf8c/artifacts
+end_time: 1732913728646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80cd2885118b4662b307c34c99fabf8c
+run_name: gifted-tern-356
+run_uuid: 80cd2885118b4662b307c34c99fabf8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913727319
+status: 3
+tags: []
+user_id: luian

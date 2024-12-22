@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/bc0edf95eca249f3830be7b8b8f846f6/artifacts
+end_time: 1734723664619
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc0edf95eca249f3830be7b8b8f846f6
+run_name: chill-horse-285
+run_uuid: bc0edf95eca249f3830be7b8b8f846f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723661692
+status: 3
+tags: []
+user_id: luian

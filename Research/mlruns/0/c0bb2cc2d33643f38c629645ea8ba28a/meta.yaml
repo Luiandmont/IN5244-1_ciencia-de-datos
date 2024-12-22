@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/c0bb2cc2d33643f38c629645ea8ba28a/artifacts
+end_time: 1734799862964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0bb2cc2d33643f38c629645ea8ba28a
+run_name: clean-wolf-461
+run_uuid: c0bb2cc2d33643f38c629645ea8ba28a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799860649
+status: 3
+tags: []
+user_id: luian

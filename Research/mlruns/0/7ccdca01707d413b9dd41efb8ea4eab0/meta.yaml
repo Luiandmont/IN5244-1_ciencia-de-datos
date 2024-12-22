@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/7ccdca01707d413b9dd41efb8ea4eab0/artifacts
+end_time: 1734723757074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ccdca01707d413b9dd41efb8ea4eab0
+run_name: luminous-wolf-71
+run_uuid: 7ccdca01707d413b9dd41efb8ea4eab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723753837
+status: 3
+tags: []
+user_id: luian

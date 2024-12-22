@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/9adadca8ee214a9790d6ba38ee2ead35/artifacts
+end_time: 1734723693110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9adadca8ee214a9790d6ba38ee2ead35
+run_name: wise-crane-933
+run_uuid: 9adadca8ee214a9790d6ba38ee2ead35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723687507
+status: 3
+tags: []
+user_id: luian

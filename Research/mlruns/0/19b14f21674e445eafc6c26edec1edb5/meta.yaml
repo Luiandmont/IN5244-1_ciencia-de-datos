@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/19b14f21674e445eafc6c26edec1edb5/artifacts
+end_time: 1732915457445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19b14f21674e445eafc6c26edec1edb5
+run_name: bedecked-mole-520
+run_uuid: 19b14f21674e445eafc6c26edec1edb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915452943
+status: 3
+tags: []
+user_id: luian

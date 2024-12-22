@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/228ba9f494234d8088885ce57e57b21a/artifacts
+end_time: 1734800324548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 228ba9f494234d8088885ce57e57b21a
+run_name: abundant-horse-176
+run_uuid: 228ba9f494234d8088885ce57e57b21a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800316684
+status: 3
+tags: []
+user_id: luian

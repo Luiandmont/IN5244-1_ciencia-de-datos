@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/a87d3e08c704491d901f9f0255bfa647/artifacts
+end_time: 1732912790704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a87d3e08c704491d901f9f0255bfa647
+run_name: capable-elk-252
+run_uuid: a87d3e08c704491d901f9f0255bfa647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912785961
+status: 3
+tags: []
+user_id: luian

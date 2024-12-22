@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/16669eb34a1c43eba2b84b935ba12e57/artifacts
+end_time: 1732915665212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16669eb34a1c43eba2b84b935ba12e57
+run_name: intrigued-whale-453
+run_uuid: 16669eb34a1c43eba2b84b935ba12e57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915663256
+status: 3
+tags: []
+user_id: luian

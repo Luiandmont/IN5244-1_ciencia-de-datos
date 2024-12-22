@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/937a6b97de754e80a7a4220a4e10ba4f/artifacts
+end_time: 1732915019504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 937a6b97de754e80a7a4220a4e10ba4f
+run_name: wistful-roo-544
+run_uuid: 937a6b97de754e80a7a4220a4e10ba4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915018269
+status: 3
+tags: []
+user_id: luian

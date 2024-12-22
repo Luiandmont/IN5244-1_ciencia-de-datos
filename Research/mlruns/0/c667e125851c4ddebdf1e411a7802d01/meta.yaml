@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/c667e125851c4ddebdf1e411a7802d01/artifacts
+end_time: 1732915341393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c667e125851c4ddebdf1e411a7802d01
+run_name: amazing-skunk-223
+run_uuid: c667e125851c4ddebdf1e411a7802d01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915339216
+status: 3
+tags: []
+user_id: luian

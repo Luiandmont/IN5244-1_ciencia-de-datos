@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/0abeb1535f8b4b79b350cfa8ea62f960/artifacts
+end_time: 1734723731583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0abeb1535f8b4b79b350cfa8ea62f960
+run_name: puzzled-sloth-458
+run_uuid: 0abeb1535f8b4b79b350cfa8ea62f960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723728098
+status: 3
+tags: []
+user_id: luian

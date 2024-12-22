@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/b5dedfde82164b8195bd6da31f6c39c3/artifacts
+end_time: 1732912954343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5dedfde82164b8195bd6da31f6c39c3
+run_name: carefree-shoat-999
+run_uuid: b5dedfde82164b8195bd6da31f6c39c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912952098
+status: 3
+tags: []
+user_id: luian

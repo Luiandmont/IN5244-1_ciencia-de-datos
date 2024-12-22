@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/1698edb64b464d77991ac737c7b5d650/artifacts
+end_time: 1732915271637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1698edb64b464d77991ac737c7b5d650
+run_name: fortunate-eel-440
+run_uuid: 1698edb64b464d77991ac737c7b5d650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915269959
+status: 3
+tags: []
+user_id: luian

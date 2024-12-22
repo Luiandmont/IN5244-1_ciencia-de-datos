@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/139c7de2653749f3ab229b4a01604b3a/artifacts
+end_time: 1734800207058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 139c7de2653749f3ab229b4a01604b3a
+run_name: painted-roo-796
+run_uuid: 139c7de2653749f3ab229b4a01604b3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800199344
+status: 3
+tags: []
+user_id: luian

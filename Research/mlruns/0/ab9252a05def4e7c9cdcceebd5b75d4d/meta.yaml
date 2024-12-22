@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/ab9252a05def4e7c9cdcceebd5b75d4d/artifacts
+end_time: 1732912871269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab9252a05def4e7c9cdcceebd5b75d4d
+run_name: skillful-midge-901
+run_uuid: ab9252a05def4e7c9cdcceebd5b75d4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912868994
+status: 3
+tags: []
+user_id: luian

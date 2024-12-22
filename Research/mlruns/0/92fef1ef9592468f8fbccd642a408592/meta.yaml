@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/92fef1ef9592468f8fbccd642a408592/artifacts
+end_time: 1732913958026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92fef1ef9592468f8fbccd642a408592
+run_name: victorious-ant-607
+run_uuid: 92fef1ef9592468f8fbccd642a408592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913956593
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/fb2bd5839bd54d5da125a050a0149037/artifacts
+end_time: 1732915317845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb2bd5839bd54d5da125a050a0149037
+run_name: bustling-crane-385
+run_uuid: fb2bd5839bd54d5da125a050a0149037
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915315837
+status: 3
+tags: []
+user_id: luian

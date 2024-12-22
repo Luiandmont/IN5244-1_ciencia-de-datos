@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/b7de21ba306040d8a112cd5bebec1e41/artifacts
+end_time: 1732912637227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7de21ba306040d8a112cd5bebec1e41
+run_name: popular-snake-185
+run_uuid: b7de21ba306040d8a112cd5bebec1e41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912635478
+status: 3
+tags: []
+user_id: luian

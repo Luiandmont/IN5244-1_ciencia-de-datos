@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/d6b3bd80fb6346a49f833cc26e7526cb/artifacts
+end_time: 1734723766903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6b3bd80fb6346a49f833cc26e7526cb
+run_name: delightful-stoat-380
+run_uuid: d6b3bd80fb6346a49f833cc26e7526cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723764925
+status: 3
+tags: []
+user_id: luian

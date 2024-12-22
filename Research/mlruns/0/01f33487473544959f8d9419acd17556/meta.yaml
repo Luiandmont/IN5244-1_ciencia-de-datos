@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/01f33487473544959f8d9419acd17556/artifacts
+end_time: 1732915308130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01f33487473544959f8d9419acd17556
+run_name: marvelous-perch-618
+run_uuid: 01f33487473544959f8d9419acd17556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915305064
+status: 3
+tags: []
+user_id: luian

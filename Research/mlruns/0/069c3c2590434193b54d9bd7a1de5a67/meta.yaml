@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/069c3c2590434193b54d9bd7a1de5a67/artifacts
+end_time: 1734723624716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 069c3c2590434193b54d9bd7a1de5a67
+run_name: nervous-mare-448
+run_uuid: 069c3c2590434193b54d9bd7a1de5a67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723622267
+status: 3
+tags: []
+user_id: luian

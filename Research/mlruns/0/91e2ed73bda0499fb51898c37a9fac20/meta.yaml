@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/91e2ed73bda0499fb51898c37a9fac20/artifacts
+end_time: 1734800048348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91e2ed73bda0499fb51898c37a9fac20
+run_name: rumbling-ant-349
+run_uuid: 91e2ed73bda0499fb51898c37a9fac20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800043163
+status: 3
+tags: []
+user_id: luian

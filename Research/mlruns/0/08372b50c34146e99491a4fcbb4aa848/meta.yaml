@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/08372b50c34146e99491a4fcbb4aa848/artifacts
+end_time: 1732915511686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08372b50c34146e99491a4fcbb4aa848
+run_name: loud-zebra-354
+run_uuid: 08372b50c34146e99491a4fcbb4aa848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915507391
+status: 3
+tags: []
+user_id: luian

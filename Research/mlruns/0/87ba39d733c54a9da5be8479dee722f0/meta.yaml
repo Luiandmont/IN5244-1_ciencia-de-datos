@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/87ba39d733c54a9da5be8479dee722f0/artifacts
+end_time: 1732915054221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87ba39d733c54a9da5be8479dee722f0
+run_name: clean-shark-165
+run_uuid: 87ba39d733c54a9da5be8479dee722f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915050836
+status: 3
+tags: []
+user_id: luian

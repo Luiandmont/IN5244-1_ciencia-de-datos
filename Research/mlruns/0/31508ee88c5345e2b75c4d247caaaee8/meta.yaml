@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/31508ee88c5345e2b75c4d247caaaee8/artifacts
+end_time: 1732915299490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31508ee88c5345e2b75c4d247caaaee8
+run_name: secretive-skunk-427
+run_uuid: 31508ee88c5345e2b75c4d247caaaee8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915297494
+status: 3
+tags: []
+user_id: luian

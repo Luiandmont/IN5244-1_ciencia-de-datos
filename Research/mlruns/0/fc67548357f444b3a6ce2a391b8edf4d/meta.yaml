@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/fc67548357f444b3a6ce2a391b8edf4d/artifacts
+end_time: 1734723722394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc67548357f444b3a6ce2a391b8edf4d
+run_name: classy-sheep-349
+run_uuid: fc67548357f444b3a6ce2a391b8edf4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723720570
+status: 3
+tags: []
+user_id: luian

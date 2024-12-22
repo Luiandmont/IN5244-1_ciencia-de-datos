@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/3c66549adb554002a4d51e27729637e5/artifacts
+end_time: 1734723799006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c66549adb554002a4d51e27729637e5
+run_name: treasured-dove-15
+run_uuid: 3c66549adb554002a4d51e27729637e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723796518
+status: 3
+tags: []
+user_id: luian

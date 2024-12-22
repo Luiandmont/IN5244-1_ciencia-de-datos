@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/d59e05b6ad9449a6a0f8ca67bed9d27d/artifacts
+end_time: 1732914030167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d59e05b6ad9449a6a0f8ca67bed9d27d
+run_name: brawny-goose-509
+run_uuid: d59e05b6ad9449a6a0f8ca67bed9d27d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914025716
+status: 3
+tags: []
+user_id: luian

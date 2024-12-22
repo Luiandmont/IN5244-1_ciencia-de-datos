@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/a6004e5af8c1434298f76ca12e4901cb/artifacts
+end_time: 1732915346074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6004e5af8c1434298f76ca12e4901cb
+run_name: clean-hog-319
+run_uuid: a6004e5af8c1434298f76ca12e4901cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915341420
+status: 3
+tags: []
+user_id: luian

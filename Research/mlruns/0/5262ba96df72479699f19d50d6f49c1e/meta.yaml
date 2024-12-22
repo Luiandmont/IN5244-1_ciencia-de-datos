@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/5262ba96df72479699f19d50d6f49c1e/artifacts
+end_time: 1732913830914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5262ba96df72479699f19d50d6f49c1e
+run_name: nervous-zebra-219
+run_uuid: 5262ba96df72479699f19d50d6f49c1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913830434
+status: 3
+tags: []
+user_id: luian

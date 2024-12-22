@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/cc09cbaa8bec41bab207819748b0aae4/artifacts
+end_time: 1734800068836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc09cbaa8bec41bab207819748b0aae4
+run_name: bedecked-shrike-241
+run_uuid: cc09cbaa8bec41bab207819748b0aae4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800061395
+status: 3
+tags: []
+user_id: luian

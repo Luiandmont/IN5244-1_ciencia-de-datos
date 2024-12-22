@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/ad9e4a0ec7774dbe814f4f277eed5b07/artifacts
+end_time: 1732915088557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad9e4a0ec7774dbe814f4f277eed5b07
+run_name: lyrical-snail-596
+run_uuid: ad9e4a0ec7774dbe814f4f277eed5b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915086861
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/3ad46f3c8b564d579f5783db98a904d2/artifacts
+end_time: 1732912671794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ad46f3c8b564d579f5783db98a904d2
+run_name: auspicious-skunk-14
+run_uuid: 3ad46f3c8b564d579f5783db98a904d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912668139
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/d9955155d53d4c04a099cba6529e02fa/artifacts
+end_time: 1734723684120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9955155d53d4c04a099cba6529e02fa
+run_name: unique-moose-561
+run_uuid: d9955155d53d4c04a099cba6529e02fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723681635
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/0d94407482ef41479b209775f3ced02a/artifacts
+end_time: 1732913923932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d94407482ef41479b209775f3ced02a
+run_name: lyrical-skink-617
+run_uuid: 0d94407482ef41479b209775f3ced02a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913920610
+status: 3
+tags: []
+user_id: luian

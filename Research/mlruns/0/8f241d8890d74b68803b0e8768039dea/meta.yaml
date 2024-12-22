@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/8f241d8890d74b68803b0e8768039dea/artifacts
+end_time: 1734723676129
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f241d8890d74b68803b0e8768039dea
+run_name: delightful-skink-578
+run_uuid: 8f241d8890d74b68803b0e8768039dea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723673644
+status: 3
+tags: []
+user_id: luian

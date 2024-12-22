@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/ea28ce3e90654541aa144718d2eeb038/artifacts
+end_time: 1732915057792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea28ce3e90654541aa144718d2eeb038
+run_name: orderly-skunk-212
+run_uuid: ea28ce3e90654541aa144718d2eeb038
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915054246
+status: 3
+tags: []
+user_id: luian

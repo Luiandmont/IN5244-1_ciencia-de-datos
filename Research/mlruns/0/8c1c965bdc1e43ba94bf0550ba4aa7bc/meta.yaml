@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/8c1c965bdc1e43ba94bf0550ba4aa7bc/artifacts
+end_time: 1734723704572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c1c965bdc1e43ba94bf0550ba4aa7bc
+run_name: fun-stork-107
+run_uuid: 8c1c965bdc1e43ba94bf0550ba4aa7bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723702082
+status: 3
+tags: []
+user_id: luian

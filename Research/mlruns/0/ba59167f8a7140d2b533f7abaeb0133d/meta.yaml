@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/ba59167f8a7140d2b533f7abaeb0133d/artifacts
+end_time: 1732915618850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba59167f8a7140d2b533f7abaeb0133d
+run_name: monumental-bug-791
+run_uuid: ba59167f8a7140d2b533f7abaeb0133d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915615947
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/9b273052b2fd4834962f2b205919b249/artifacts
+end_time: 1732914898133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b273052b2fd4834962f2b205919b249
+run_name: righteous-shrike-481
+run_uuid: 9b273052b2fd4834962f2b205919b249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914893984
+status: 3
+tags: []
+user_id: luian

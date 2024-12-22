@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/4aa695b4c85349d4bd55b2de5dbd3708/artifacts
+end_time: 1732915082068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4aa695b4c85349d4bd55b2de5dbd3708
+run_name: merciful-bug-596
+run_uuid: 4aa695b4c85349d4bd55b2de5dbd3708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915078515
+status: 3
+tags: []
+user_id: luian

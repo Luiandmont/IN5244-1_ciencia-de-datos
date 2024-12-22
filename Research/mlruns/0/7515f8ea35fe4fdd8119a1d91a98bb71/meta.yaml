@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/7515f8ea35fe4fdd8119a1d91a98bb71/artifacts
+end_time: 1732914145709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7515f8ea35fe4fdd8119a1d91a98bb71
+run_name: delicate-horse-927
+run_uuid: 7515f8ea35fe4fdd8119a1d91a98bb71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914141416
+status: 3
+tags: []
+user_id: luian

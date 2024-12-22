@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/49d4e28645434e758361da1e90b8a629/artifacts
+end_time: 1732915243093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49d4e28645434e758361da1e90b8a629
+run_name: judicious-bird-850
+run_uuid: 49d4e28645434e758361da1e90b8a629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915240111
+status: 3
+tags: []
+user_id: luian

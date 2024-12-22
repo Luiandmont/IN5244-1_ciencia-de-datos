@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/b0c913f1ced54e7da3725ba1061b2869/artifacts
+end_time: 1732915648034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0c913f1ced54e7da3725ba1061b2869
+run_name: carefree-eel-945
+run_uuid: b0c913f1ced54e7da3725ba1061b2869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915644895
+status: 3
+tags: []
+user_id: luian

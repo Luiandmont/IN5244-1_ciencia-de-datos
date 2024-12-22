@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/61eb4241fe934e14be196dddeac7f5dc/artifacts
+end_time: 1732912868972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61eb4241fe934e14be196dddeac7f5dc
+run_name: monumental-cod-741
+run_uuid: 61eb4241fe934e14be196dddeac7f5dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912865126
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/3f3db0d6907947b8b16594ab8c794c83/artifacts
+end_time: 1732915264493
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f3db0d6907947b8b16594ab8c794c83
+run_name: sincere-colt-816
+run_uuid: 3f3db0d6907947b8b16594ab8c794c83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915262235
+status: 3
+tags: []
+user_id: luian

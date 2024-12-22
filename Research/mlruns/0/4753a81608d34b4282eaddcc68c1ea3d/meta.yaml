@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/4753a81608d34b4282eaddcc68c1ea3d/artifacts
+end_time: 1734723845035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4753a81608d34b4282eaddcc68c1ea3d
+run_name: glamorous-seal-929
+run_uuid: 4753a81608d34b4282eaddcc68c1ea3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723842346
+status: 3
+tags: []
+user_id: luian

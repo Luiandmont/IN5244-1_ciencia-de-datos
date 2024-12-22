@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/db8ecc05394a41a98883615c055cb23c/artifacts
+end_time: 1732915315805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db8ecc05394a41a98883615c055cb23c
+run_name: dapper-quail-818
+run_uuid: db8ecc05394a41a98883615c055cb23c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915312165
+status: 3
+tags: []
+user_id: luian

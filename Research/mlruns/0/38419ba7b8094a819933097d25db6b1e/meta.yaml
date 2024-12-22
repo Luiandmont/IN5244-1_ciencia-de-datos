@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/38419ba7b8094a819933097d25db6b1e/artifacts
+end_time: 1734723819012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38419ba7b8094a819933097d25db6b1e
+run_name: adorable-grouse-232
+run_uuid: 38419ba7b8094a819933097d25db6b1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723815771
+status: 3
+tags: []
+user_id: luian

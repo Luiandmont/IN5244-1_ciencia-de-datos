@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/63aa7eda5bb547ebb086db860d6adcd5/artifacts
+end_time: 1732915620962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63aa7eda5bb547ebb086db860d6adcd5
+run_name: puzzled-conch-732
+run_uuid: 63aa7eda5bb547ebb086db860d6adcd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915620070
+status: 3
+tags: []
+user_id: luian

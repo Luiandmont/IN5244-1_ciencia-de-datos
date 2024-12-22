@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/41f852a568004759945e7d805f3f2e0a/artifacts
+end_time: 1732912802325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41f852a568004759945e7d805f3f2e0a
+run_name: orderly-donkey-974
+run_uuid: 41f852a568004759945e7d805f3f2e0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912796045
+status: 3
+tags: []
+user_id: luian

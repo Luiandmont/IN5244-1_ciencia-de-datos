@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/74d953106a54425ca45fdcc3b80c2221/artifacts
+end_time: 1732915303283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74d953106a54425ca45fdcc3b80c2221
+run_name: marvelous-sloth-646
+run_uuid: 74d953106a54425ca45fdcc3b80c2221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915301558
+status: 3
+tags: []
+user_id: luian

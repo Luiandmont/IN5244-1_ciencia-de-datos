@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/40e9cd748ff74b20b0ffeaa21230223f/artifacts
+end_time: 1732912675165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40e9cd748ff74b20b0ffeaa21230223f
+run_name: vaunted-eel-965
+run_uuid: 40e9cd748ff74b20b0ffeaa21230223f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912671813
+status: 3
+tags: []
+user_id: luian

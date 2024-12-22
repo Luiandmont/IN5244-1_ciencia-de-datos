@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/b8920e3483714e048950847518b4606a/artifacts
+end_time: 1734800358438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8920e3483714e048950847518b4606a
+run_name: bold-pug-564
+run_uuid: b8920e3483714e048950847518b4606a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800349911
+status: 3
+tags: []
+user_id: luian

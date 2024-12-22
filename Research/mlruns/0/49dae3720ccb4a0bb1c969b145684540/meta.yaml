@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/49dae3720ccb4a0bb1c969b145684540/artifacts
+end_time: 1732914878266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49dae3720ccb4a0bb1c969b145684540
+run_name: debonair-sloth-639
+run_uuid: 49dae3720ccb4a0bb1c969b145684540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914874425
+status: 3
+tags: []
+user_id: luian

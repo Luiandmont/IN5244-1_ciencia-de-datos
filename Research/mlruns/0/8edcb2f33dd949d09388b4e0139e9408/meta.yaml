@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/8edcb2f33dd949d09388b4e0139e9408/artifacts
+end_time: 1734723852188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8edcb2f33dd949d09388b4e0139e9408
+run_name: welcoming-moth-889
+run_uuid: 8edcb2f33dd949d09388b4e0139e9408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723849756
+status: 3
+tags: []
+user_id: luian

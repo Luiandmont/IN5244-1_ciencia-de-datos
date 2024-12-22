@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/8e05afd46b294b1496241fb99fbda773/artifacts
+end_time: 1732912922647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e05afd46b294b1496241fb99fbda773
+run_name: able-mink-633
+run_uuid: 8e05afd46b294b1496241fb99fbda773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912920416
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/3f9965c0a14f4740999af8960738e47f/artifacts
+end_time: 1732915262206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f9965c0a14f4740999af8960738e47f
+run_name: omniscient-grub-659
+run_uuid: 3f9965c0a14f4740999af8960738e47f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915260023
+status: 3
+tags: []
+user_id: luian

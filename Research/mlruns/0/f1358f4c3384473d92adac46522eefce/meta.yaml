@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/f1358f4c3384473d92adac46522eefce/artifacts
+end_time: 1732915649100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1358f4c3384473d92adac46522eefce
+run_name: righteous-rook-517
+run_uuid: f1358f4c3384473d92adac46522eefce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915648073
+status: 3
+tags: []
+user_id: luian

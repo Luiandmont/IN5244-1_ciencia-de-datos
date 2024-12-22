@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/e62ee9cb57944a629b367de994af0f0b/artifacts
+end_time: 1734800251537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e62ee9cb57944a629b367de994af0f0b
+run_name: intelligent-yak-692
+run_uuid: e62ee9cb57944a629b367de994af0f0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800244643
+status: 3
+tags: []
+user_id: luian

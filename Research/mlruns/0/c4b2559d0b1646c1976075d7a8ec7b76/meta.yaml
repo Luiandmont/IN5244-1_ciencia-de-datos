@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/c4b2559d0b1646c1976075d7a8ec7b76/artifacts
+end_time: 1732912808204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4b2559d0b1646c1976075d7a8ec7b76
+run_name: traveling-turtle-528
+run_uuid: c4b2559d0b1646c1976075d7a8ec7b76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912804566
+status: 3
+tags: []
+user_id: luian

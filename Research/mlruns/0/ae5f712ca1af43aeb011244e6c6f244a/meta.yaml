@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/ae5f712ca1af43aeb011244e6c6f244a/artifacts
+end_time: 1734723867987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae5f712ca1af43aeb011244e6c6f244a
+run_name: tasteful-mole-504
+run_uuid: ae5f712ca1af43aeb011244e6c6f244a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723864296
+status: 3
+tags: []
+user_id: luian

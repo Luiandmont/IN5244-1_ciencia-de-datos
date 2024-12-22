@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/1b7a42595b4b40168899d8835e43374a/artifacts
+end_time: 1732912692832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b7a42595b4b40168899d8835e43374a
+run_name: upbeat-boar-562
+run_uuid: 1b7a42595b4b40168899d8835e43374a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912689070
+status: 3
+tags: []
+user_id: luian

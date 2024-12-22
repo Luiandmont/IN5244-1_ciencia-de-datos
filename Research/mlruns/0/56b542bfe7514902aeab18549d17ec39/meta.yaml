@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/56b542bfe7514902aeab18549d17ec39/artifacts
+end_time: 1732915113103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56b542bfe7514902aeab18549d17ec39
+run_name: kindly-crane-977
+run_uuid: 56b542bfe7514902aeab18549d17ec39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915104760
+status: 3
+tags: []
+user_id: luian

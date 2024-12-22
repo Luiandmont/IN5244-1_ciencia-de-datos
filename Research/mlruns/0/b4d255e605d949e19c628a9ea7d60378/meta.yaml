@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/b4d255e605d949e19c628a9ea7d60378/artifacts
+end_time: 1734723815738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4d255e605d949e19c628a9ea7d60378
+run_name: burly-goat-65
+run_uuid: b4d255e605d949e19c628a9ea7d60378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723812450
+status: 3
+tags: []
+user_id: luian

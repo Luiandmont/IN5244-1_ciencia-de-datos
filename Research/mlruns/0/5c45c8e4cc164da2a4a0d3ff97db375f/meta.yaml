@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/5c45c8e4cc164da2a4a0d3ff97db375f/artifacts
+end_time: 1732912793606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c45c8e4cc164da2a4a0d3ff97db375f
+run_name: rogue-snail-50
+run_uuid: 5c45c8e4cc164da2a4a0d3ff97db375f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912790724
+status: 3
+tags: []
+user_id: luian

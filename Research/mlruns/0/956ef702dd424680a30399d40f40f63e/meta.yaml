@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/956ef702dd424680a30399d40f40f63e/artifacts
+end_time: 1732912828577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 956ef702dd424680a30399d40f40f63e
+run_name: inquisitive-grub-206
+run_uuid: 956ef702dd424680a30399d40f40f63e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732912824848
+status: 3
+tags: []
+user_id: luian

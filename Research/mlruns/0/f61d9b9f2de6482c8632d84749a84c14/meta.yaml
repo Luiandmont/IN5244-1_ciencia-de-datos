@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/f61d9b9f2de6482c8632d84749a84c14/artifacts
+end_time: 1732913980033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f61d9b9f2de6482c8632d84749a84c14
+run_name: luminous-sow-17
+run_uuid: f61d9b9f2de6482c8632d84749a84c14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732913975950
+status: 3
+tags: []
+user_id: luian

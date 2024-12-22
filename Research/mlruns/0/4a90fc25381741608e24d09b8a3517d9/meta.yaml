@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/4a90fc25381741608e24d09b8a3517d9/artifacts
+end_time: 1732915255603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a90fc25381741608e24d09b8a3517d9
+run_name: auspicious-bat-9
+run_uuid: 4a90fc25381741608e24d09b8a3517d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915252371
+status: 3
+tags: []
+user_id: luian

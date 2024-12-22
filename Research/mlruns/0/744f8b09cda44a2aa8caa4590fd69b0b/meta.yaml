@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/744f8b09cda44a2aa8caa4590fd69b0b/artifacts
+end_time: 1734723796486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 744f8b09cda44a2aa8caa4590fd69b0b
+run_name: defiant-moth-572
+run_uuid: 744f8b09cda44a2aa8caa4590fd69b0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723793843
+status: 3
+tags: []
+user_id: luian

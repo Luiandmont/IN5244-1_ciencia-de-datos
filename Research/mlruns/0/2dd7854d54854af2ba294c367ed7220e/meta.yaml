@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/2dd7854d54854af2ba294c367ed7220e/artifacts
+end_time: 1734799904667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dd7854d54854af2ba294c367ed7220e
+run_name: treasured-snake-59
+run_uuid: 2dd7854d54854af2ba294c367ed7220e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799901407
+status: 3
+tags: []
+user_id: luian

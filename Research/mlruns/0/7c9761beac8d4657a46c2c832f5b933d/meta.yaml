@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/7c9761beac8d4657a46c2c832f5b933d/artifacts
+end_time: 1732915623365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c9761beac8d4657a46c2c832f5b933d
+run_name: skittish-sponge-823
+run_uuid: 7c9761beac8d4657a46c2c832f5b933d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915620994
+status: 3
+tags: []
+user_id: luian

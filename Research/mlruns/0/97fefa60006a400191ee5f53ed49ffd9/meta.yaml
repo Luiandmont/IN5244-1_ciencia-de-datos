@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/97fefa60006a400191ee5f53ed49ffd9/artifacts
+end_time: 1734800316594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97fefa60006a400191ee5f53ed49ffd9
+run_name: burly-elk-82
+run_uuid: 97fefa60006a400191ee5f53ed49ffd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734800308384
+status: 3
+tags: []
+user_id: luian

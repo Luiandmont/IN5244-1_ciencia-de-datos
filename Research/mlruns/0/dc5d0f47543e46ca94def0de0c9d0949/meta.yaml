@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/dc5d0f47543e46ca94def0de0c9d0949/artifacts
+end_time: 1732914844326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc5d0f47543e46ca94def0de0c9d0949
+run_name: caring-pig-867
+run_uuid: dc5d0f47543e46ca94def0de0c9d0949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914842065
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/df41aec004b5436f96c04626dc0d4c0b/artifacts
+end_time: 1734799953093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df41aec004b5436f96c04626dc0d4c0b
+run_name: worried-shrimp-990
+run_uuid: df41aec004b5436f96c04626dc0d4c0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799950901
+status: 3
+tags: []
+user_id: luian

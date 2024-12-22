@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/8a7f2d735d9a4238b78d1e03a353266a/artifacts
+end_time: 1734799898143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a7f2d735d9a4238b78d1e03a353266a
+run_name: nebulous-mule-395
+run_uuid: 8a7f2d735d9a4238b78d1e03a353266a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734799894837
+status: 3
+tags: []
+user_id: luian

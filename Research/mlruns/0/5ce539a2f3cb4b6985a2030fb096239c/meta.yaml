@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/5ce539a2f3cb4b6985a2030fb096239c/artifacts
+end_time: 1732915604913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ce539a2f3cb4b6985a2030fb096239c
+run_name: bald-donkey-109
+run_uuid: 5ce539a2f3cb4b6985a2030fb096239c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915602858
+status: 3
+tags: []
+user_id: luian

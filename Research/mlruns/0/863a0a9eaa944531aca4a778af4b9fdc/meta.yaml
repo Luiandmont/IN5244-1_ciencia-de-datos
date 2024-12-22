@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/863a0a9eaa944531aca4a778af4b9fdc/artifacts
+end_time: 1732914074972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 863a0a9eaa944531aca4a778af4b9fdc
+run_name: incongruous-rook-671
+run_uuid: 863a0a9eaa944531aca4a778af4b9fdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914071287
+status: 3
+tags: []
+user_id: luian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/616977a6755c4b419e8ccc638cce11e3/artifacts
+end_time: 1734723788530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 616977a6755c4b419e8ccc638cce11e3
+run_name: indecisive-ox-955
+run_uuid: 616977a6755c4b419e8ccc638cce11e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723786164
+status: 3
+tags: []
+user_id: luian

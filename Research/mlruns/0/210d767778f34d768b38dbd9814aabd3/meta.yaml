@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/210d767778f34d768b38dbd9814aabd3/artifacts
+end_time: 1732915126191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 210d767778f34d768b38dbd9814aabd3
+run_name: whimsical-crane-589
+run_uuid: 210d767778f34d768b38dbd9814aabd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915123106
+status: 3
+tags: []
+user_id: luian

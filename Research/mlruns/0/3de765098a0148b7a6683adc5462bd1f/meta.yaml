@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/3de765098a0148b7a6683adc5462bd1f/artifacts
+end_time: 1732914133395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3de765098a0148b7a6683adc5462bd1f
+run_name: grandiose-bear-892
+run_uuid: 3de765098a0148b7a6683adc5462bd1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914129412
+status: 3
+tags: []
+user_id: luian

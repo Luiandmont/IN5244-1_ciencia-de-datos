@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/573991c9205043a8a071c763bca79363/artifacts
+end_time: 1732915147370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 573991c9205043a8a071c763bca79363
+run_name: enthused-smelt-197
+run_uuid: 573991c9205043a8a071c763bca79363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915140820
+status: 3
+tags: []
+user_id: luian

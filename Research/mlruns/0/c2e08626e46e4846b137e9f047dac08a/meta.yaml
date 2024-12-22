@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/c2e08626e46e4846b137e9f047dac08a/artifacts
+end_time: 1732915090474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2e08626e46e4846b137e9f047dac08a
+run_name: auspicious-stag-177
+run_uuid: c2e08626e46e4846b137e9f047dac08a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915088580
+status: 3
+tags: []
+user_id: luian

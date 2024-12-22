@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/4c01f727bd07478893f75c3294c11a27/artifacts
+end_time: 1732915078489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c01f727bd07478893f75c3294c11a27
+run_name: handsome-gnat-868
+run_uuid: 4c01f727bd07478893f75c3294c11a27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732915074473
+status: 3
+tags: []
+user_id: luian

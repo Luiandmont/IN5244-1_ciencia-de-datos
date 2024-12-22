@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/a89ccc5075da4ec8896e8a4b0854dc72/artifacts
+end_time: 1734723633662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a89ccc5075da4ec8896e8a4b0854dc72
+run_name: upbeat-horse-108
+run_uuid: a89ccc5075da4ec8896e8a4b0854dc72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723630861
+status: 3
+tags: []
+user_id: luian

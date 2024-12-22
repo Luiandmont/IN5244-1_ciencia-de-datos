@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/e864c2f3a0e740b0969b00702c045773/artifacts
+end_time: 1732914910932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e864c2f3a0e740b0969b00702c045773
+run_name: dazzling-pug-398
+run_uuid: e864c2f3a0e740b0969b00702c045773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914906356
+status: 3
+tags: []
+user_id: luian

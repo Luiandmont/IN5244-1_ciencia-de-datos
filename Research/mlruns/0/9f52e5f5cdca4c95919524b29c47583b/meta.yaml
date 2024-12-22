@@ -1,0 +1,15 @@
+artifact_uri: file:///home/crisu/Universidad/IN5244-CienciaDatos/Research/mlruns/0/9f52e5f5cdca4c95919524b29c47583b/artifacts
+end_time: 1732914914212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f52e5f5cdca4c95919524b29c47583b
+run_name: exultant-bug-450
+run_uuid: 9f52e5f5cdca4c95919524b29c47583b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732914910964
+status: 3
+tags: []
+user_id: luian
